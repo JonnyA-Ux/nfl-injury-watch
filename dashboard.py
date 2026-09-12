@@ -260,10 +260,9 @@ usage basis: {esc(basis)} season</div></div>"""]
         rest = ' <span class="flag">rest</span>' if r["rest_day"] else ""
 
         # volume at stake + projection rows
-        inner, vol_at_stake = [], 0.0
+        inner, vol_at_stake, vol_label = [], 0.0, ""
         hit = names[(names["team"] == team)
-                    & names["full_name"].str.contains(str(nm).split()[-1],
-                                                      case=False, na=False)]
+                    & iw.match_player(names["full_name"], nm)]
         if not shares.empty and not hit.empty:
             pid, ppos = hit.index[0], hit.iloc[0]["position"]
             ts = shares[shares["team"] == team].copy()
@@ -279,7 +278,8 @@ usage basis: {esc(basis)} season</div></div>"""]
                 if orow.empty or float(orow["share"].iloc[0]) < 0.05:
                     continue
                 vac = float(orow["share"].iloc[0])
-                vol_at_stake = max(vol_at_stake, vac)
+                if vac > vol_at_stake:
+                    vol_at_stake, vol_label = vac, m
                 rest_df = blk[blk["player_id"] != pid].copy()
                 if rest_df.empty:
                     continue
@@ -315,8 +315,7 @@ usage basis: {esc(basis)} season</div></div>"""]
 
         if not bene.empty:
             m = bene[(bene["team"] == team)
-                     & bene["out_player"].str.contains(str(nm).split()[-1],
-                                                       case=False, na=False)]
+                     & iw.match_player(bene["out_player"], nm)]
             if not m.empty:
                 inner.append('<div class="dh">What actually happened in games '
                              'he missed</div><table class="mini">')
@@ -340,7 +339,7 @@ usage basis: {esc(basis)} season</div></div>"""]
                      f'<code>python3 injury_watch.py log --team {esc(team)} '
                      f'--player "NAME" --market rec_yds --line 0.0</code>')
 
-        vs = (f'{vol_at_stake:.1%} of team volume' if vol_at_stake
+        vs = (f'{vol_at_stake:.1%} of team {vol_label}' if vol_at_stake
               else '<span class="dim">no history</span>')
         H.append(
             f'<tr id="r-{i}" data-pos="{esc(pos_)}" data-i="{i}" '

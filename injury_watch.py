@@ -13,6 +13,7 @@ and prop line tracking. Free nflverse data, no API keys.
 
 import argparse
 import os
+import re
 from datetime import datetime, timezone
 
 import nflreadpy as nfl
@@ -37,6 +38,19 @@ USAGE_FLOOR = 0.25     # snap share below which a player is ignored
 
 
 # ------------------------------------------------------------------ helpers
+
+def match_player(series, full_name):
+    """Exact full-name match first. Surname only as a last resort, and never
+    when it hits more than one player (Ja'Marr Chase vs Chase Brown)."""
+    full = str(full_name).strip().lower()
+    exact = series.astype(str).str.strip().str.lower() == full
+    if exact.any():
+        return exact
+    surname = str(full_name).split()[-1]
+    loose = series.astype(str).str.contains(rf"\b{re.escape(surname)}$",
+                                            case=False, na=False, regex=True)
+    return loose if loose.sum() == 1 else exact
+
 
 def pbp_name(full_name):
     """'Brock Bowers' -> 'B.Bowers', matching how pbp stores names."""
@@ -95,6 +109,7 @@ def load_snaps(seasons):
     frames = []
     for s in seasons:
         try:
+            print(f"  snap counts {s}...", flush=True)
             d = nfl.load_snap_counts(seasons=[s]).to_pandas()
             if len(d):
                 d["season"] = s
@@ -121,7 +136,10 @@ def usage_table():
 # ------------------------------------------------------------ with / without
 
 def _shares(seasons):
+    print(f"  downloading play-by-play for {seasons} "
+          f"(first run pulls a few hundred MB, be patient)...", flush=True)
     pbp = nfl.load_pbp(seasons=seasons).to_pandas()
+    print(f"  got {len(pbp):,} plays", flush=True)
 
     def build(mask, id_col, name_col, label):
         d = pbp[mask & pbp[id_col].notna()]
@@ -171,8 +189,11 @@ def build_map():
     """
     os.makedirs(CACHE_DIR, exist_ok=True)
     seasons = [PRIOR_SEASON, SEASON]
+    print("building beneficiary map. this takes a few minutes.", flush=True)
     shares = _shares(seasons)
+    print("  downloading weekly rosters...", flush=True)
     ros = _roster_status(seasons)
+    print("  computing with/without splits...", flush=True)
     if shares.empty or ros.empty:
         print("missing data")
         return
@@ -286,8 +307,7 @@ def _beneficiaries(team, surname, limit=3, indent=8):
         print(" " * indent + "(run build-map first)")
         return []
     b = pd.read_csv(path)
-    m = b[(b["team"] == team)
-          & b["out_player"].str.contains(surname, case=False, na=False)]
+    m = b[(b["team"] == team) & match_player(b["out_player"], surname)]
     if m.empty:
         print(" " * indent + "no absence on record - check depth chart instead")
         return []
@@ -358,7 +378,7 @@ def snapshot():
                       f"{rest}{was}")
                 if (row["position"] in SKILL and tag in ("WORSE", "NEW")
                         and not (row["rest_only"] and row["report_status"] == "None")):
-                    _beneficiaries(row["team"], str(row["full_name"]).split()[-1])
+                    _beneficiaries(row["team"], str(row["full_name"]))
             print()
 
     _at_risk(cur, usage)
@@ -442,7 +462,10 @@ def project(team, player_name, metric=None):
     basis = shares["basis"].iloc[0]
 
     roster = names[names["team"] == team]
-    hit = roster[roster["full_name"].str.contains(player_name, case=False, na=False)]
+    hit = roster[match_player(roster["full_name"], player_name)]
+    if hit.empty:
+        hit = roster[roster["full_name"].str.contains(player_name, case=False,
+                                                      na=False)]
     if hit.empty:
         print(f"no {player_name} found on {team}")
         return
@@ -532,7 +555,7 @@ def main():
         log_line(a.team, a.player, a.market, a.line, a.over, a.under, a.note)
     else:
         print(f"\nIf {a.player} ({a.team}) is out:")
-        _beneficiaries(a.team, a.player.split()[-1], limit=8, indent=4)
+        _beneficiaries(a.team, a.player, limit=8, indent=4)
         print()
 
 
