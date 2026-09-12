@@ -1,0 +1,183 @@
+season,week,team,full_name,position,report_primary_injury,report_status,practice_primary_injury,practice_secondary_injury,practice_status,rest_day,ailment,p_rank,rest_only,r_rank,severity,key
+2026,1,ARI,Josh Sweat,LB,,None,Not injury related - resting player,Knee,Full Participation in Practice,True,Knee,0,False,0,0,ARI|Josh Sweat
+2026,1,ARI,Blake Gillikin,P,,None,Groin,,Full Participation in Practice,False,Groin,0,False,0,0,ARI|Blake Gillikin
+2026,1,ARI,Garrett Williams,CB,Achilles,Out,Achilles,,Limited Participation in Practice,False,Achilles,1,False,3,7,ARI|Garrett Williams
+2026,1,ARI,Isaiah Adams,G,Knee,Out,Knee,,Did Not Participate In Practice,False,Knee,2,False,3,8,ARI|Isaiah Adams
+2026,1,ARI,Dadrion Taylor-Demerson,S,Ribs,Out,Ribs,,Did Not Participate In Practice,False,Ribs,2,False,3,8,ARI|Dadrion Taylor-Demerson
+2026,1,ARI,Will Johnson,CB,,None,Ankle,,Full Participation in Practice,False,Ankle,0,False,0,0,ARI|Will Johnson
+2026,1,ARI,Jeremiyah Love,RB,Ankle,Questionable,Ankle,,Limited Participation in Practice,False,Ankle,1,False,1,3,ARI|Jeremiyah Love
+2026,1,ATL,Jake Matthews,T,,None,Not injury related - resting player,,Did Not Participate In Practice,True,none listed,0,True,0,0,ATL|Jake Matthews
+2026,1,ATL,Za'Darius Smith,DE,Shoulder,Questionable,Shoulder,,Full Participation in Practice,False,Shoulder,0,False,1,2,ATL|Za'Darius Smith
+2026,1,ATL,Da'Shawn Hand,DT,,None,Knee,,Full Participation in Practice,False,Knee,0,False,0,0,ATL|Da'Shawn Hand
+2026,1,ATL,Jawaan Taylor,T,,None,Knee,,Full Participation in Practice,False,Knee,0,False,0,0,ATL|Jawaan Taylor
+2026,1,ATL,Tua Tagovailoa,QB,Oblique,Out,Oblique,,Did Not Participate In Practice,False,Oblique,2,False,3,8,ATL|Tua Tagovailoa
+2026,1,ATL,Kyle Hinton,G,,None,Knee,,Full Participation in Practice,False,Knee,0,False,0,0,ATL|Kyle Hinton
+2026,1,ATL,Brandon Dorlus,DT,,None,Groin,,Full Participation in Practice,False,Groin,0,False,0,0,ATL|Brandon Dorlus
+2026,1,ATL,Michael Penix Jr.,QB,Knee,Out,Knee,,Full Participation in Practice,False,Knee,0,False,3,6,ATL|Michael Penix Jr.
+2026,1,ATL,Billy Bowman Jr.,CB,Achilles,Out,Achilles,,Limited Participation in Practice,False,Achilles,1,False,3,7,ATL|Billy Bowman Jr.
+2026,1,ATL,Cameron Williams,T,Ankle,Out,Ankle,,Did Not Participate In Practice,False,Ankle,2,False,3,8,ATL|Cameron Williams
+2026,1,ATL,Zachariah Branch,WR,,None,Hamstring,,Full Participation in Practice,False,Hamstring,0,False,0,0,ATL|Zachariah Branch
+2026,1,ATL,Kendal Daniels,LB,,None,Achilles,,Full Participation in Practice,False,Achilles,0,False,0,0,ATL|Kendal Daniels
+2026,1,BAL,Calais Campbell,DE,,None,Not injury related - resting player,,Did Not Participate In Practice,True,none listed,0,True,0,0,BAL|Calais Campbell
+2026,1,BAL,Nnamdi Madubuike,DT,Neck,Out,Neck,,Limited Participation in Practice,False,Neck,1,False,3,7,BAL|Nnamdi Madubuike
+2026,1,BAL,Zay Flowers,WR,,None,Hamstring,,Full Participation in Practice,False,Hamstring,0,False,0,0,BAL|Zay Flowers
+2026,1,BAL,Devontez Walker,WR,Groin,Questionable,Groin,,Limited Participation in Practice,False,Groin,1,False,1,3,BAL|Devontez Walker
+2026,1,BAL,Teddye Buchanan,LB,Knee,Out,Knee,,Limited Participation in Practice,False,Knee,1,False,3,7,BAL|Teddye Buchanan
+2026,1,BUF,Ty Johnson,RB,Hamstring,Questionable,Hamstring,,Limited Participation in Practice,False,Hamstring,1,False,1,3,BUF|Ty Johnson
+2026,1,BUF,Jordan Hancock,CB,Quadricep,Questionable,Quadricep,,Full Participation in Practice,False,Quadricep,0,False,1,2,BUF|Jordan Hancock
+2026,1,BUF,T.J. Sanders,DE,Knee,Questionable,Knee,,Limited Participation in Practice,False,Knee,1,False,1,3,BUF|T.J. Sanders
+2026,1,CAR,Bobby Brown III,DT,,None,Back,,Full Participation in Practice,False,Back,0,False,0,0,CAR|Bobby Brown III
+2026,1,CAR,Patrick Jones II,LB,Back,Out,Back,,Did Not Participate In Practice,False,Back,2,False,3,8,CAR|Patrick Jones II
+2026,1,CAR,Jonathon Brooks,RB,,None,Groin,,Full Participation in Practice,False,Groin,0,False,0,0,CAR|Jonathon Brooks
+2026,1,CHI,Grady Jarrett,DT,,None,Not injury related - resting player,,Full Participation in Practice,True,none listed,0,True,0,0,CHI|Grady Jarrett
+2026,1,CHI,Joe Thuney,G,,None,Not injury related - resting player,,Full Participation in Practice,True,none listed,0,True,0,0,CHI|Joe Thuney
+2026,1,CHI,Xavier Woods,S,Groin,Questionable,Groin,,Limited Participation in Practice,False,Groin,1,False,1,3,CHI|Xavier Woods
+2026,1,CHI,Tyson Bagent,QB,Back,Questionable,Back,,Did Not Participate In Practice,False,Back,2,False,1,4,CHI|Tyson Bagent
+2026,1,CHI,Rome Odunze,WR,Calf,Questionable,Calf,,Limited Participation in Practice,False,Calf,1,False,1,3,CHI|Rome Odunze
+2026,1,CHI,Ozzy Trapilo,T,Knee,Questionable,Knee,,Limited Participation in Practice,False,Knee,1,False,1,3,CHI|Ozzy Trapilo
+2026,1,CIN,Jonathan Allen,DT,,None,Not injury related - resting player,,Full Participation in Practice,True,none listed,0,True,0,0,CIN|Jonathan Allen
+2026,1,CIN,B.J. Hill,DT,,None,Not injury related - resting player,,Full Participation in Practice,True,none listed,0,True,0,0,CIN|B.J. Hill
+2026,1,CIN,Dexter Lawrence,DT,,None,Not injury related - resting player,,Did Not Participate In Practice,True,none listed,0,True,0,0,CIN|Dexter Lawrence
+2026,1,CIN,Tee Higgins,WR,,None,Foot,,Full Participation in Practice,False,Foot,0,False,0,0,CIN|Tee Higgins
+2026,1,CIN,Ja'Marr Chase,WR,,None,Knee,Not injury related - resting player,Did Not Participate In Practice,True,Knee,2,False,0,2,CIN|Ja'Marr Chase
+2026,1,CIN,DJ Turner II,CB,,None,Hamstring,,Limited Participation in Practice,False,Hamstring,1,False,0,1,CIN|DJ Turner II
+2026,1,CIN,Shemar Stewart,DE,Knee,Doubtful,Knee,,Did Not Participate In Practice,False,Knee,2,False,2,6,CIN|Shemar Stewart
+2026,1,CLE,Maliek Collins,DT,,None,Quadricep,,Limited Participation in Practice,False,Quadricep,1,False,0,1,CLE|Maliek Collins
+2026,1,CLE,Teven Jenkins,G,Back,Out,Back,,Did Not Participate In Practice,False,Back,2,False,3,8,CLE|Teven Jenkins
+2026,1,CLE,Carson Schwesinger,LB,,None,Shoulder,,Full Participation in Practice,False,Shoulder,0,False,0,0,CLE|Carson Schwesinger
+2026,1,CLE,Parker Brailsford,C,Thumb,Questionable,Thumb,,Limited Participation in Practice,False,Thumb,1,False,1,3,CLE|Parker Brailsford
+2026,1,DAL,Jonathan Bullard,DT,,None,Groin,,Full Participation in Practice,False,Groin,0,False,0,0,DAL|Jonathan Bullard
+2026,1,DAL,Malik Davis,RB,Hip,Out,Hip,,Limited Participation in Practice,False,Hip,1,False,3,7,DAL|Malik Davis
+2026,1,DAL,Luke Schoonmaker,TE,,None,Not injury related - personal matter,,Did Not Participate In Practice,True,none listed,0,True,0,0,DAL|Luke Schoonmaker
+2026,1,DAL,Ajani Cornelius,T,,None,Knee,,Full Participation in Practice,False,Knee,0,False,0,0,DAL|Ajani Cornelius
+2026,1,DEN,Marvin Mims Jr.,WR,,None,Foot,,Full Participation in Practice,False,Foot,0,False,0,0,DEN|Marvin Mims Jr.
+2026,1,DET,Trevor Nowaske,LB,,None,Knee,,Full Participation in Practice,False,Knee,0,False,0,0,DET|Trevor Nowaske
+2026,1,DET,Christian Izien,S,Groin,Questionable,Groin,,Limited Participation in Practice,False,Groin,1,False,1,3,DET|Christian Izien
+2026,1,DET,Mekhi Wingo,DT,,None,Groin,,Full Participation in Practice,False,Groin,0,False,0,0,DET|Mekhi Wingo
+2026,1,DET,Thomas Harper,S,,None,Ankle,,Full Participation in Practice,False,Ankle,0,False,0,0,DET|Thomas Harper
+2026,1,DET,Ennis Rakestraw Jr.,CB,,None,Ankle,,Full Participation in Practice,False,Ankle,0,False,0,0,DET|Ennis Rakestraw Jr.
+2026,1,DET,Derrick Moore,DE,,None,Hamstring,,Full Participation in Practice,False,Hamstring,0,False,0,0,DET|Derrick Moore
+2026,1,DET,Jimmy Rolder,LB,,None,Hamstring,,Full Participation in Practice,False,Hamstring,0,False,0,0,DET|Jimmy Rolder
+2026,1,DET,Keith Abney II,CB,,None,Hand,,Full Participation in Practice,False,Hand,0,False,0,0,DET|Keith Abney II
+2026,1,GB,Javon Hargrave,DT,,None,Knee,,Limited Participation in Practice,False,Knee,1,False,0,1,GB|Javon Hargrave
+2026,1,GB,Aaron Banks,G,Knee,Questionable,Knee,,Limited Participation in Practice,False,Knee,1,False,1,3,GB|Aaron Banks
+2026,1,GB,Devonte Wyatt,DT,,None,Ankle,,Limited Participation in Practice,False,Ankle,1,False,0,1,GB|Devonte Wyatt
+2026,1,GB,Zach Bako-Bewele,T,Knee,Questionable,Knee,,Limited Participation in Practice,False,Knee,1,False,1,3,GB|Zach Bako-Bewele
+2026,1,GB,Ty'Ron Hopper,LB,Achilles,Questionable,Achilles,,Limited Participation in Practice,False,Achilles,1,False,1,3,GB|Ty'Ron Hopper
+2026,1,GB,Jordan Morgan,T,,None,Knee,,Full Participation in Practice,False,Knee,0,False,0,0,GB|Jordan Morgan
+2026,1,GB,Barryn Sorrell,LB,,None,Foot,,Limited Participation in Practice,False,Foot,1,False,0,1,GB|Barryn Sorrell
+2026,1,GB,Warren Brinson,DT,Calf,Out,Calf,,Did Not Participate In Practice,False,Calf,2,False,3,8,GB|Warren Brinson
+2026,1,HOU,Trent Brown,T,,None,Wrist,,Full Participation in Practice,False,Wrist,0,False,0,0,HOU|Trent Brown
+2026,1,HOU,Will Anderson Jr.,DE,,None,Not injury related - resting player,,Did Not Participate In Practice,True,none listed,0,True,0,0,HOU|Will Anderson Jr.
+2026,1,HOU,Kayden McDonald,DT,,None,Ankle,,Did Not Participate In Practice,False,Ankle,2,False,0,2,HOU|Kayden McDonald
+2026,1,HOU,Wade Woodaz,LB,,None,Thumb,,Full Participation in Practice,False,Thumb,0,False,0,0,HOU|Wade Woodaz
+2026,1,IND,DeForest Buckner,DT,,None,Not injury related - resting player,,Did Not Participate In Practice,True,none listed,0,True,0,0,IND|DeForest Buckner
+2026,1,IND,Grover Stewart,DT,,None,Not injury related - resting player,,Full Participation in Practice,True,none listed,0,True,0,0,IND|Grover Stewart
+2026,1,IND,Charvarius Ward,CB,,None,Not injury related - resting player,,Limited Participation in Practice,True,none listed,0,True,0,0,IND|Charvarius Ward
+2026,1,IND,Andrew Ogletree,TE,,None,Neck,,Full Participation in Practice,False,Neck,0,False,0,0,IND|Andrew Ogletree
+2026,1,IND,Alec Pierce,WR,,None,Heel,,Limited Participation in Practice,False,Heel,1,False,0,1,IND|Alec Pierce
+2026,1,IND,Anthony Richardson,QB,,None,Illness,,Full Participation in Practice,False,Illness,0,False,0,0,IND|Anthony Richardson
+2026,1,IND,Austin Ajiake,LB,Hamstring,Questionable,Hamstring,,Did Not Participate In Practice,False,Hamstring,2,False,1,4,IND|Austin Ajiake
+2026,1,IND,Sedrick Van Pran-Granger,C,,None,Illness,,Full Participation in Practice,False,Illness,0,False,0,0,IND|Sedrick Van Pran-Granger
+2026,1,IND,A.J. Haulcy,S,,None,Ankle,,Full Participation in Practice,False,Ankle,0,False,0,0,IND|A.J. Haulcy
+2026,1,JAX,Jakobi Meyers,WR,,None,Thumb,,Limited Participation in Practice,False,Thumb,1,False,0,1,JAX|Jakobi Meyers
+2026,1,JAX,Cole Van Lanen,T,,None,Knee,,Limited Participation in Practice,False,Knee,1,False,0,1,JAX|Cole Van Lanen
+2026,1,JAX,Anton Harrison,T,,None,Foot,,Did Not Participate In Practice,False,Foot,2,False,0,2,JAX|Anton Harrison
+2026,1,JAX,LeQuint Allen Jr.,RB,Hip,Questionable,Hip,,Limited Participation in Practice,False,Hip,1,False,1,3,JAX|LeQuint Allen Jr.
+2026,1,KC,Chris Jones,DT,,None,Calf,,Limited Participation in Practice,False,Calf,1,False,0,1,KC|Chris Jones
+2026,1,KC,Patrick Mahomes,QB,,None,Knee,,Full Participation in Practice,False,Knee,0,False,0,0,KC|Patrick Mahomes
+2026,1,KC,L'Jarius Sneed,CB,,None,Knee,,Full Participation in Practice,False,Knee,0,False,0,0,KC|L'Jarius Sneed
+2026,1,KC,Trey Smith,G,,None,Hip,,Full Participation in Practice,False,Hip,0,False,0,0,KC|Trey Smith
+2026,1,KC,Jack Cochrane,LB,,None,Knee,,Full Participation in Practice,False,Knee,0,False,0,0,KC|Jack Cochrane
+2026,1,KC,Chamarri Conner,S,,None,Knee,,Did Not Participate In Practice,False,Knee,2,False,0,2,KC|Chamarri Conner
+2026,1,KC,Rashee Rice,WR,,None,Knee,,Full Participation in Practice,False,Knee,0,False,0,0,KC|Rashee Rice
+2026,1,KC,Xavier Worthy,WR,,None,Shoulder,,Full Participation in Practice,False,Shoulder,0,False,0,0,KC|Xavier Worthy
+2026,1,KC,Josh Simmons,T,,None,Back,,Did Not Participate In Practice,False,Back,2,False,0,2,KC|Josh Simmons
+2026,1,KC,Ashton Gillotte,DE,,None,Foot,,Full Participation in Practice,False,Foot,0,False,0,0,KC|Ashton Gillotte
+2026,1,KC,R Mason Thomas,DE,,None,Hamstring,,Full Participation in Practice,False,Hamstring,0,False,0,0,KC|R Mason Thomas
+2026,1,LA,Aaron Donald,DE,Not injury related - resting player,Out,Not injury related - resting player,,Did Not Participate In Practice,True,none listed,2,True,3,8,LA|Aaron Donald
+2026,1,LA,Tyler Higbee,TE,,None,Not injury related - resting player,,Full Participation in Practice,True,none listed,0,True,0,0,LA|Tyler Higbee
+2026,1,LA,Myles Garrett,LB,,None,Knee,,Full Participation in Practice,False,Knee,0,False,0,0,LA|Myles Garrett
+2026,1,LA,Alaric Jackson,T,,None,Not injury related - resting player,,Full Participation in Practice,True,none listed,0,True,0,0,LA|Alaric Jackson
+2026,1,LA,Grant Stuard,LB,,None,Hamstring,,Full Participation in Practice,False,Hamstring,0,False,0,0,LA|Grant Stuard
+2026,1,LA,Jaylen Watson,CB,,None,Toe,,Full Participation in Practice,False,Toe,0,False,0,0,LA|Jaylen Watson
+2026,1,LA,Byron Young,LB,,None,Not injury related - resting player,,Full Participation in Practice,True,none listed,0,True,0,0,LA|Byron Young
+2026,1,LAC,Khalil Mack,DE,,None,Not injury related - resting player,,Full Participation in Practice,True,none listed,0,True,0,0,LAC|Khalil Mack
+2026,1,LAC,Deane Leonard,CB,Abdomen,Out,Abdomen,,Did Not Participate In Practice,False,Abdomen,2,False,3,8,LAC|Deane Leonard
+2026,1,LAC,Keaton Mitchell,RB,,None,Hamstring,,Full Participation in Practice,False,Hamstring,0,False,0,0,LAC|Keaton Mitchell
+2026,1,LAC,Tuli Tuipulotu,DE,Hip,Questionable,Hip,,Limited Participation in Practice,False,Hip,1,False,1,3,LAC|Tuli Tuipulotu
+2026,1,LAC,R.J. Mickens,S,,None,Ankle,,Full Participation in Practice,False,Ankle,0,False,0,0,LAC|R.J. Mickens
+2026,1,LAC,Brenen Thompson,WR,,None,Hip,,Full Participation in Practice,False,Hip,0,False,0,0,LAC|Brenen Thompson
+2026,1,LV,Brock Bowers,TE,Knee,Out,Knee,,Did Not Participate In Practice,False,Knee,2,False,3,8,LV|Brock Bowers
+2026,1,LV,Ashton Jeanty,RB,,None,Ankle,,Full Participation in Practice,False,Ankle,0,False,0,0,LV|Ashton Jeanty
+2026,1,MIA,Ronnie Harrison,LB,,None,Hamstring,,Full Participation in Practice,False,Hamstring,0,False,0,0,MIA|Ronnie Harrison
+2026,1,MIA,Dante Trader Jr.,S,,None,Hamstring,,Full Participation in Practice,False,Hamstring,0,False,0,0,MIA|Dante Trader Jr.
+2026,1,MIA,Will Kacmarek,TE,,None,Calf,,Full Participation in Practice,False,Calf,0,False,0,0,MIA|Will Kacmarek
+2026,1,MIA,Seydou Traore,TE,,None,Thumb,Achilles,Full Participation in Practice,False,Thumb + Achilles,0,False,0,0,MIA|Seydou Traore
+2026,1,MIN,Harrison Smith,S,,None,Not injury related - resting player,,Limited Participation in Practice,True,none listed,0,True,0,0,MIN|Harrison Smith
+2026,1,MIN,Christian Darrisaw,T,,None,Not injury related - resting player,,Did Not Participate In Practice,True,none listed,0,True,0,0,MIN|Christian Darrisaw
+2026,1,MIN,Caleb Tiernan,T,,None,Ankle,,Full Participation in Practice,False,Ankle,0,False,0,0,MIN|Caleb Tiernan
+2026,1,MIN,Jakobe Thomas,S,,None,Illness,,Full Participation in Practice,False,Illness,0,False,0,0,MIN|Jakobe Thomas
+2026,1,MIN,Jacob Thomas,S,,None,Ankle,,Full Participation in Practice,False,Ankle,0,False,0,0,MIN|Jacob Thomas
+2026,1,NE,Christian Barmore,DT,,None,Knee,,Full Participation in Practice,False,Knee,0,False,0,0,NE|Christian Barmore
+2026,1,NE,Ben Brown,C,Knee,Out,Knee,,Did Not Participate In Practice,False,Knee,2,False,3,8,NE|Ben Brown
+2026,1,NE,TreVeyon Henderson,RB,Ankle,Out,Ankle,,Did Not Participate In Practice,False,Ankle,2,False,3,8,NE|TreVeyon Henderson
+2026,1,NO,Cameron Jordan,LB,Hamstring,Out,Hamstring,,Limited Participation in Practice,False,Hamstring,1,False,3,7,NO|Cameron Jordan
+2026,1,NO,Davon Godchaux,DT,,None,Not injury related - resting player,,Full Participation in Practice,True,none listed,0,True,0,0,NO|Davon Godchaux
+2026,1,NO,Alvin Kamara,RB,Knee,Questionable,Knee,,Full Participation in Practice,False,Knee,0,False,1,2,NO|Alvin Kamara
+2026,1,NO,Audric Estimé,RB,Thigh,Out,Thigh,,Did Not Participate In Practice,False,Thigh,2,False,3,8,NO|Audric Estimé
+2026,1,NO,Oscar Delp,TE,Hamstring,Out,Hamstring,,Did Not Participate In Practice,False,Hamstring,2,False,3,8,NO|Oscar Delp
+2026,1,NYG,Shelby Harris,DT,,None,Achilles,,Full Participation in Practice,False,Achilles,0,False,0,0,NYG|Shelby Harris
+2026,1,NYG,Patrick Ricard,FB,,None,Toe,,Full Participation in Practice,False,Toe,0,False,0,0,NYG|Patrick Ricard
+2026,1,NYG,Andrew Thomas,T,,None,Knee,,Full Participation in Practice,False,Knee,0,False,0,0,NYG|Andrew Thomas
+2026,1,NYG,Malik Nabers,WR,Knee,Questionable,Knee,,Full Participation in Practice,False,Knee,0,False,1,2,NYG|Malik Nabers
+2026,1,NYG,Bryan Hudson,C,,None,Knee,,Full Participation in Practice,False,Knee,0,False,0,0,NYG|Bryan Hudson
+2026,1,NYG,Theo Johnson,TE,,None,Shoulder,,Full Participation in Practice,False,Shoulder,0,False,0,0,NYG|Theo Johnson
+2026,1,NYJ,Tim Patrick,WR,Groin,Out,Groin,,Did Not Participate In Practice,False,Groin,2,False,3,8,NYJ|Tim Patrick
+2026,1,NYJ,Kene Nwangwu,RB,Back,Doubtful,Back,,Did Not Participate In Practice,False,Back,2,False,2,6,NYJ|Kene Nwangwu
+2026,1,NYJ,Joseph Ossai,DE,Foot,Out,Foot,,Did Not Participate In Practice,False,Foot,2,False,3,8,NYJ|Joseph Ossai
+2026,1,NYJ,Breece Hall,RB,,None,Groin,,Full Participation in Practice,False,Groin,0,False,0,0,NYJ|Breece Hall
+2026,1,NYJ,Isaiah Davis,RB,,None,Knee,,Full Participation in Practice,False,Knee,0,False,0,0,NYJ|Isaiah Davis
+2026,1,NYJ,Kenyon Sadiq,TE,,None,Groin,,Full Participation in Practice,False,Groin,0,False,0,0,NYJ|Kenyon Sadiq
+2026,1,NYJ,D'Angelo Ponds,CB,Calf,Doubtful,Calf,,Limited Participation in Practice,False,Calf,1,False,2,5,NYJ|D'Angelo Ponds
+2026,1,PHI,Jonathan Greenard,LB,Pectoral,Out,Pectoral,,Limited Participation in Practice,False,Pectoral,1,False,3,7,PHI|Jonathan Greenard
+2026,1,PHI,Eli Stowers,TE,Hamstring,Questionable,Hamstring,,Limited Participation in Practice,False,Hamstring,1,False,1,3,PHI|Eli Stowers
+2026,1,PIT,Joey Porter Jr.,CB,Back,Questionable,Back,,Limited Participation in Practice,False,Back,1,False,1,3,PIT|Joey Porter Jr.
+2026,1,SEA,Josh Jones,T,,None,Knee,,Limited Participation in Practice,False,Knee,1,False,0,1,SEA|Josh Jones
+2026,1,SEA,Ty Okada,S,Hamstring,Out,Hamstring,,Did Not Participate In Practice,False,Hamstring,2,False,3,8,SEA|Ty Okada
+2026,1,SEA,Emanuel Wilson,RB,,None,Hamstring,,Full Participation in Practice,False,Hamstring,0,False,0,0,SEA|Emanuel Wilson
+2026,1,SEA,Anthony Bradford,G,,None,Knee,,Full Participation in Practice,False,Knee,0,False,0,0,SEA|Anthony Bradford
+2026,1,SEA,AJ Barner,TE,,None,Oblique,,Full Participation in Practice,False,Oblique,0,False,0,0,SEA|AJ Barner
+2026,1,SEA,Tory Horton,WR,Hamstring,Questionable,Hamstring,,Limited Participation in Practice,False,Hamstring,1,False,1,3,SEA|Tory Horton
+2026,1,SEA,Nick Emmanwori,S,Ankle,Questionable,Ankle,,Limited Participation in Practice,False,Ankle,1,False,1,3,SEA|Nick Emmanwori
+2026,1,SEA,Julian Neal,CB,,None,Quadricep,,Full Participation in Practice,False,Quadricep,0,False,0,0,SEA|Julian Neal
+2026,1,SF,Kyle Juszczyk,FB,,None,Finger,,Limited Participation in Practice,False,Finger,1,False,0,1,SF|Kyle Juszczyk
+2026,1,SF,George Kittle,TE,,None,Achilles,,Limited Participation in Practice,False,Achilles,1,False,0,1,SF|George Kittle
+2026,1,SF,Dre Greenlaw,LB,,None,Achilles,,Full Participation in Practice,False,Achilles,0,False,0,0,SF|Dre Greenlaw
+2026,1,SF,Luke Gifford,LB,,None,Hamstring,,Full Participation in Practice,False,Hamstring,0,False,0,0,SF|Luke Gifford
+2026,1,SF,Nick Bosa,DE,,None,Knee,,Limited Participation in Practice,False,Knee,1,False,0,1,SF|Nick Bosa
+2026,1,SF,Renardo Green,CB,,None,Hamstring,,Full Participation in Practice,False,Hamstring,0,False,0,0,SF|Renardo Green
+2026,1,SF,Upton Stout,CB,,None,Achilles,,Full Participation in Practice,False,Achilles,0,False,0,0,SF|Upton Stout
+2026,1,SF,Alfred Collins,DT,Knee,Out,Knee,,Did Not Participate In Practice,False,Knee,2,False,3,8,SF|Alfred Collins
+2026,1,SF,James Thompson Jr.,DT,Hamstring,Questionable,Hamstring,,Limited Participation in Practice,False,Hamstring,1,False,1,3,SF|James Thompson Jr.
+2026,1,SF,Romello Height,DE,,None,Ankle,,Full Participation in Practice,False,Ankle,0,False,0,0,SF|Romello Height
+2026,1,SF,Gracen Halton,DT,,None,Ankle,,Full Participation in Practice,False,Ankle,0,False,0,0,SF|Gracen Halton
+2026,1,TB,Justin Skule,T,Oblique,Doubtful,Oblique,,Limited Participation in Practice,False,Oblique,1,False,2,5,TB|Justin Skule
+2026,1,TB,Christian Rozeboom,LB,Foot,Questionable,Foot,,Limited Participation in Practice,False,Foot,1,False,1,3,TB|Christian Rozeboom
+2026,1,TB,Sean Tucker,RB,Hamstring,Doubtful,Hamstring,,Limited Participation in Practice,False,Hamstring,1,False,2,5,TB|Sean Tucker
+2026,1,TB,Jalen McMillan,WR,Knee,Doubtful,Knee,,Limited Participation in Practice,False,Knee,1,False,2,5,TB|Jalen McMillan
+2026,1,TB,Emeka Egbuka,WR,,None,Toe,,Full Participation in Practice,False,Toe,0,False,0,0,TB|Emeka Egbuka
+2026,1,TB,Rueben Bain Jr.,LB,,None,Shoulder,,Full Participation in Practice,False,Shoulder,0,False,0,0,TB|Rueben Bain Jr.
+2026,1,TB,Billy Schrauth,G,,None,Knee,,Full Participation in Practice,False,Knee,0,False,0,0,TB|Billy Schrauth
+2026,1,TEN,Cedric Gray,LB,Concussion,Out,Concussion,,Did Not Participate In Practice,False,Concussion,2,False,3,8,TEN|Cedric Gray
+2026,1,TEN,Keldric Faulk,DE,,None,Shoulder,,Full Participation in Practice,False,Shoulder,0,False,0,0,TEN|Keldric Faulk
+2026,1,WAS,Marcus Mariota,QB,,None,Knee,,Full Participation in Practice,False,Knee,0,False,0,0,WAS|Marcus Mariota
+2026,1,WAS,Daron Payne,DT,,None,Knee,,Limited Participation in Practice,False,Knee,1,False,0,1,WAS|Daron Payne
+2026,1,WAS,Nick Allegretti,C,,None,Calf,,Full Participation in Practice,False,Calf,0,False,0,0,WAS|Nick Allegretti
+2026,1,WAS,Charles Omenihu,DE,,None,Wrist,,Full Participation in Practice,False,Wrist,0,False,0,0,WAS|Charles Omenihu
+2026,1,WAS,Javon Kinlaw,DT,,None,Back,,Full Participation in Practice,False,Back,0,False,0,0,WAS|Javon Kinlaw
+2026,1,WAS,K'Lavon Chaisson,LB,,None,Knee,,Limited Participation in Practice,False,Knee,1,False,0,1,WAS|K'Lavon Chaisson
+2026,1,WAS,Odafe Oweh,LB,,None,Calf,,Limited Participation in Practice,False,Calf,1,False,0,1,WAS|Odafe Oweh
+2026,1,WAS,Jordan Magee,LB,,None,Chest,,Full Participation in Practice,False,Chest,0,False,0,0,WAS|Jordan Magee
+2026,1,WAS,Ben Sinnott,TE,,None,Oblique,,Full Participation in Practice,False,Oblique,0,False,0,0,WAS|Ben Sinnott
+2026,1,WAS,Jacory Croskey-Merritt,RB,,None,Groin,,Limited Participation in Practice,False,Groin,1,False,0,1,WAS|Jacory Croskey-Merritt
