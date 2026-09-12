@@ -2,9 +2,8 @@ name: Daily injury dashboard
 
 on:
   schedule:
-    # 12:10 UTC = 5:10am Pacific, after the nflverse feed refreshes.
     - cron: "10 12 * * *"
-  workflow_dispatch:        # lets you run it by hand from the Actions tab
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -22,7 +21,7 @@ jobs:
       - name: Install dependencies
         run: pip install nflreadpy pandas pyarrow requests
 
-      - name: Rebuild beneficiary map on Tuesdays
+      - name: Build beneficiary map
         run: |
           if [ ! -f cache/beneficiaries.csv ] || [ "$(date +%u)" = "2" ]; then
             python injury_watch.py build-map
@@ -31,7 +30,7 @@ jobs:
       - name: Build dashboard
         run: python dashboard.py
 
-          - name: Commit and publish
+      - name: Commit and publish
         run: |
           cp dashboard.html index.html
           git config user.name "injury-watch"
