@@ -31,10 +31,11 @@ jobs:
       - name: Build dashboard
         run: python dashboard.py
 
-      - name: Commit and publish
+          - name: Commit and publish
         run: |
+          cp dashboard.html index.html
           git config user.name "injury-watch"
           git config user.email "actions@github.com"
-          git add dashboard.html snapshots cache lines.csv || true
+          git add -A
           git diff --staged --quiet || git commit -m "dashboard $(date -u +%Y-%m-%d)"
           git push
