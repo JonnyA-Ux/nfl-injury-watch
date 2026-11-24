@@ -1437,44 +1437,45 @@ season,team,out_player,out_pos,metric,beneficiary,benef_pos,share_with,share_wit
 2025,WAS,Jaylin Lane,WR,targets,Treylon Burks,WR,0.115,0.1529,0.0379,6,2
 2025,WAS,Jaylin Lane,WR,targets,John Bates,TE,0.0718,0.1053,0.0334,8,1
 2025,WAS,Jaylin Lane,WR,targets,Chris Rodriguez Jr.,RB,0.0354,0.0526,0.0172,3,1
-2026,ARI,Kendrick Bourne,WR,carries,Tyler Allgeier,RB,0.3307,0.6995,0.3687,8,2
-2026,ARI,Kendrick Bourne,WR,carries,Bam Knight,RB,0.2009,0.4545,0.2536,5,1
-2026,ARI,Kendrick Bourne,WR,targets,Hunter Long,TE,0.0243,0.1111,0.0868,2,1
+2026,ARI,Kendrick Bourne,WR,carries,Tyler Allgeier,RB,0.3307,0.5774,0.2467,8,3
+2026,ARI,Kendrick Bourne,WR,carries,Bam Knight,RB,0.2009,0.3939,0.193,5,2
+2026,ARI,Kendrick Bourne,WR,targets,Simi Fehoko,WR,0.0244,0.1023,0.0779,1,3
 2026,ARI,Kendrick Bourne,WR,targets,Devin Duvernay,WR,0.0488,0.1178,0.069,1,2
 2026,ARI,Kendrick Bourne,WR,targets,Reggie Virgil,WR,0.0787,0.1379,0.0592,2,1
-2026,ARI,Kendrick Bourne,WR,targets,Simi Fehoko,WR,0.0244,0.0728,0.0484,1,2
-2026,ARI,Kendrick Bourne,WR,targets,Bam Knight,RB,0.0737,0.1111,0.0374,3,1
-2026,ARI,Bam Knight,RB,carries,Tyler Allgeier,RB,0.3445,0.9444,0.5999,9,1
+2026,ARI,Kendrick Bourne,WR,targets,Trey McBride,TE,0.2839,0.3351,0.0511,8,3
+2026,ARI,Kendrick Bourne,WR,targets,Hunter Long,TE,0.0243,0.0717,0.0474,2,2
+2026,ARI,Bam Knight,RB,carries,Tyler Allgeier,RB,0.3434,0.9444,0.6011,10,1
 2026,ARI,Bam Knight,RB,targets,Reggie Virgil,WR,0.0787,0.1379,0.0592,2,1
 2026,ARI,Bam Knight,RB,targets,Tyler Allgeier,RB,0.0685,0.1034,0.035,9,1
-2026,ARI,Michael Wilson,WR,carries,Bam Knight,RB,0.2009,0.4545,0.2536,5,1
-2026,ARI,Michael Wilson,WR,carries,Tyler Allgeier,RB,0.3989,0.4545,0.0556,9,1
+2026,ARI,Michael Wilson,WR,carries,Bam Knight,RB,0.2009,0.3939,0.193,5,2
 2026,ARI,Michael Wilson,WR,targets,Devin Duvernay,WR,0.0589,0.1667,0.1078,2,1
-2026,ARI,Michael Wilson,WR,targets,Hunter Long,TE,0.0243,0.1111,0.0868,2,1
-2026,ARI,Michael Wilson,WR,targets,Simi Fehoko,WR,0.0294,0.1111,0.0817,2,1
-2026,ARI,Michael Wilson,WR,targets,Bam Knight,RB,0.0737,0.1111,0.0374,3,1
-2026,ARI,Jalen Brooks,WR,carries,Tyler Allgeier,RB,0.3198,0.6021,0.2823,7,3
-2026,ARI,Jalen Brooks,WR,carries,Bam Knight,RB,0.2234,0.2828,0.0595,4,2
-2026,ARI,Jalen Brooks,WR,targets,Hunter Long,TE,0.0243,0.1111,0.0868,2,1
+2026,ARI,Michael Wilson,WR,targets,Simi Fehoko,WR,0.0294,0.1362,0.1068,2,2
+2026,ARI,Michael Wilson,WR,targets,Trey McBride,TE,0.283,0.3647,0.0817,9,2
+2026,ARI,Michael Wilson,WR,targets,Hunter Long,TE,0.0243,0.0717,0.0474,2,2
+2026,ARI,Jalen Brooks,WR,carries,Tyler Allgeier,RB,0.3198,0.5349,0.2151,7,4
+2026,ARI,Jalen Brooks,WR,carries,Bam Knight,RB,0.2234,0.2997,0.0763,4,3
 2026,ARI,Jalen Brooks,WR,targets,Michael Wilson,WR,0.2442,0.3036,0.0594,7,2
+2026,ARI,Jalen Brooks,WR,targets,Hunter Long,TE,0.0243,0.0717,0.0474,2,2
 2026,ARI,Jalen Brooks,WR,targets,Tyler Allgeier,RB,0.0627,0.0937,0.031,7,3
-2026,ARI,Jalen Brooks,WR,targets,Elijah Higgins,TE,0.0678,0.0833,0.0155,5,2
 2026,ARI,Marvin Harrison Jr.,WR,carries,Jeremiyah Love,RB,0.5501,0.6667,0.1165,4,1
 2026,ARI,Marvin Harrison Jr.,WR,targets,Jalen Brooks,WR,0.02,0.1522,0.1322,1,1
 2026,ARI,Marvin Harrison Jr.,WR,targets,Kendrick Bourne,WR,0.1305,0.1739,0.0434,3,1
-2026,ARI,Jeremiyah Love,RB,carries,Bam Knight,RB,0.0948,0.3916,0.2968,3,3
-2026,ARI,Jeremiyah Love,RB,carries,Tyler Allgeier,RB,0.2997,0.5617,0.2619,6,4
+2026,ARI,Jeremiyah Love,RB,carries,Bam Knight,RB,0.0948,0.377,0.2823,3,4
+2026,ARI,Jeremiyah Love,RB,carries,Tyler Allgeier,RB,0.2997,0.516,0.2163,6,5
 2026,ARI,Jeremiyah Love,RB,carries,Jacoby Brissett,QB,0.1133,0.1744,0.0611,6,2
 2026,ARI,Jeremiyah Love,RB,carries,Michael Wilson,WR,0.037,0.0833,0.0463,1,1
-2026,ARI,Jeremiyah Love,RB,targets,Hunter Long,TE,0.0243,0.1111,0.0868,2,1
+2026,ARI,Jeremiyah Love,RB,targets,Simi Fehoko,WR,0.0244,0.1023,0.0779,1,3
 2026,ARI,Jeremiyah Love,RB,targets,Devin Duvernay,WR,0.0488,0.1178,0.069,1,2
 2026,ARI,Jeremiyah Love,RB,targets,Kendrick Bourne,WR,0.1229,0.1858,0.063,5,2
 2026,ARI,Jeremiyah Love,RB,targets,Reggie Virgil,WR,0.0787,0.1379,0.0592,2,1
-2026,ARI,Jeremiyah Love,RB,targets,Simi Fehoko,WR,0.0244,0.0728,0.0484,1,2
+2026,ARI,Jeremiyah Love,RB,targets,Hunter Long,TE,0.0243,0.0717,0.0474,2,2
 2026,ARI,Reggie Virgil,WR,carries,Jeremiyah Love,RB,0.5,0.5501,0.0501,2,4
-2026,ARI,Reggie Virgil,WR,targets,Trey McBride,TE,0.2544,0.3247,0.0703,6,4
 2026,ARI,Reggie Virgil,WR,targets,Jeremiyah Love,RB,0.0217,0.088,0.0663,1,4
 2026,ARI,Reggie Virgil,WR,targets,Michael Wilson,WR,0.2294,0.2925,0.063,5,4
+2026,ARI,Reggie Virgil,WR,targets,Trey McBride,TE,0.2826,0.3247,0.0421,7,4
+2026,ARI,Carson Beck,QB,targets,Harrison Wallace III,WR,0.0556,0.2258,0.1703,1,1
+2026,ARI,Carson Beck,QB,targets,Trey McBride,TE,0.2768,0.3026,0.0257,2,9
+2026,ARI,Carson Beck,QB,targets,Simi Fehoko,WR,0.0728,0.0928,0.02,2,2
 2026,ARI,Carson Beck,QB,targets,Michael Wilson,WR,0.2414,0.2594,0.0181,1,8
 2026,ATL,Olamide Zaccheaus,WR,carries,Bijan Robinson,RB,0.6857,0.7692,0.0836,9,1
 2026,ATL,Olamide Zaccheaus,WR,targets,Drake London,WR,0.2731,0.3125,0.0394,9,1
@@ -1490,99 +1491,106 @@ season,team,out_player,out_pos,metric,beneficiary,benef_pos,share_with,share_wit
 2026,ATL,Michael Penix Jr.,QB,targets,Brian Robinson,RB,0.0455,0.0645,0.019,3,1
 2026,ATL,Michael Penix Jr.,QB,targets,Jahan Dotson,WR,0.1329,0.1435,0.0105,8,2
 2026,BAL,Lamar Jackson,QB,carries,Tyler Huntley,QB,0.0714,0.1571,0.0857,1,3
-2026,BAL,Lamar Jackson,QB,carries,Justice Hill,RB,0.1203,0.1725,0.0523,5,4
+2026,BAL,Lamar Jackson,QB,carries,Justice Hill,RB,0.1203,0.1926,0.0723,5,5
 2026,BAL,Lamar Jackson,QB,carries,Rasheen Ali,RB,0.1111,0.1481,0.037,1,1
-2026,BAL,Lamar Jackson,QB,carries,Zay Flowers,WR,0.0263,0.0534,0.0271,1,3
+2026,BAL,Lamar Jackson,QB,carries,Zay Flowers,WR,0.0263,0.0514,0.0251,1,4
 2026,BAL,Lamar Jackson,QB,targets,Ja'Kobi Lane,WR,0.0817,0.1808,0.0991,2,3
-2026,BAL,Lamar Jackson,QB,targets,Matthew Hibner,TE,0.0623,0.125,0.0627,4,1
-2026,BAL,Lamar Jackson,QB,targets,Josh Cuevas,TE,0.0635,0.094,0.0305,2,4
-2026,BAL,Lamar Jackson,QB,targets,Zay Flowers,WR,0.2718,0.2967,0.0249,4,5
-2026,BAL,Tyler Huntley,QB,carries,Justice Hill,RB,0.1181,0.2324,0.1142,7,2
-2026,BAL,Tyler Huntley,QB,carries,Zay Flowers,WR,0.0328,0.0882,0.0554,3,1
+2026,BAL,Lamar Jackson,QB,targets,Josh Cuevas,TE,0.0635,0.0918,0.0284,2,5
+2026,BAL,Lamar Jackson,QB,targets,Matthew Hibner,TE,0.0623,0.0903,0.028,4,2
+2026,BAL,Lamar Jackson,QB,targets,Zay Flowers,WR,0.2718,0.2982,0.0264,4,6
+2026,BAL,Lamar Jackson,QB,targets,Derrick Henry,RB,0.0682,0.0798,0.0116,5,5
+2026,BAL,Tyler Huntley,QB,carries,Justice Hill,RB,0.1181,0.2458,0.1277,7,3
+2026,BAL,Tyler Huntley,QB,carries,Zay Flowers,WR,0.0328,0.0668,0.0341,3,2
 2026,BAL,Tyler Huntley,QB,targets,Ja'Kobi Lane,WR,0.118,0.234,0.1161,4,1
-2026,BAL,Tyler Huntley,QB,targets,Matthew Hibner,TE,0.0623,0.125,0.0627,4,1
-2026,BAL,Tyler Huntley,QB,targets,Justice Hill,RB,0.123,0.1682,0.0452,7,2
-2026,BAL,Tyler Huntley,QB,targets,Derrick Henry,RB,0.0618,0.1064,0.0446,8,1
+2026,BAL,Tyler Huntley,QB,targets,Derrick Henry,RB,0.0618,0.1226,0.0608,8,2
+2026,BAL,Tyler Huntley,QB,targets,Justice Hill,RB,0.123,0.1584,0.0354,7,3
+2026,BAL,Tyler Huntley,QB,targets,Matthew Hibner,TE,0.0623,0.0903,0.028,4,2
 2026,BAL,Zay Flowers,WR,carries,Lamar Jackson,QB,0.1157,0.1818,0.0662,3,1
-2026,BAL,Zay Flowers,WR,carries,Derrick Henry,RB,0.6747,0.7273,0.0526,9,1
-2026,BAL,Zay Flowers,WR,targets,Rashod Bateman,WR,0.105,0.3103,0.2054,9,1
-2026,BAL,Zay Flowers,WR,targets,Mark Andrews,TE,0.1766,0.2414,0.0648,9,1
+2026,BAL,Zay Flowers,WR,carries,Derrick Henry,RB,0.6663,0.7273,0.0609,10,1
+2026,BAL,Zay Flowers,WR,targets,Rashod Bateman,WR,0.1111,0.3103,0.1992,10,1
+2026,BAL,Zay Flowers,WR,targets,Mark Andrews,TE,0.1672,0.2414,0.0741,10,1
 2026,BAL,Zay Flowers,WR,targets,Chris Moore,WR,0.0515,0.1034,0.0519,3,1
-2026,BAL,Zay Flowers,WR,targets,Derrick Henry,RB,0.0622,0.1034,0.0413,8,1
-2026,BAL,Zay Flowers,WR,targets,LaJohntay Wester,WR,0.0584,0.069,0.0106,3,1
-2026,BAL,Ja'Kobi Lane,WR,carries,Derrick Henry,RB,0.6421,0.7368,0.0947,6,4
+2026,BAL,Zay Flowers,WR,targets,Derrick Henry,RB,0.0707,0.1034,0.0327,9,1
+2026,BAL,Zay Flowers,WR,targets,Devontez Walker,WR,0.0548,0.069,0.0142,5,1
+2026,BAL,Ja'Kobi Lane,WR,carries,Derrick Henry,RB,0.6348,0.7368,0.102,7,4
 2026,BAL,Ja'Kobi Lane,WR,carries,Lamar Jackson,QB,0.1176,0.137,0.0194,1,3
-2026,BAL,Ja'Kobi Lane,WR,targets,Rashod Bateman,WR,0.0897,0.1792,0.0895,6,4
-2026,BAL,Ja'Kobi Lane,WR,targets,Mark Andrews,TE,0.1522,0.2293,0.077,6,4
-2026,BAL,Ja'Kobi Lane,WR,targets,Zay Flowers,WR,0.2741,0.3087,0.0346,6,3
+2026,BAL,Ja'Kobi Lane,WR,targets,Mark Andrews,TE,0.1424,0.2293,0.0869,7,4
+2026,BAL,Ja'Kobi Lane,WR,targets,Rashod Bateman,WR,0.1007,0.1792,0.0785,7,4
+2026,BAL,Ja'Kobi Lane,WR,targets,Zay Flowers,WR,0.2786,0.3087,0.0301,7,3
 2026,BAL,Ja'Kobi Lane,WR,targets,Chris Moore,WR,0.0523,0.0767,0.0244,2,2
-2026,BAL,Ja'Kobi Lane,WR,targets,Matthew Hibner,TE,0.0684,0.0845,0.0161,3,2
-2026,BAL,Joe Fagnano,QB,carries,Derrick Henry,RB,0.6435,0.7347,0.0912,6,4
-2026,BAL,Joe Fagnano,QB,targets,Mark Andrews,TE,0.147,0.2371,0.09,6,4
+2026,BAL,Ja'Kobi Lane,WR,targets,Matthew Hibner,TE,0.0652,0.0845,0.0193,4,2
+2026,BAL,Joe Fagnano,QB,carries,Derrick Henry,RB,0.636,0.7347,0.0987,7,4
+2026,BAL,Joe Fagnano,QB,targets,Mark Andrews,TE,0.1379,0.2371,0.0991,7,4
 2026,BAL,Joe Fagnano,QB,targets,Chris Moore,WR,0.0213,0.0789,0.0577,1,3
 2026,BAL,Joe Fagnano,QB,targets,LaJohntay Wester,WR,0.046,0.0761,0.0302,2,2
-2026,BAL,Joe Fagnano,QB,targets,Rashod Bateman,WR,0.114,0.1427,0.0287,6,4
-2026,BAL,Joe Fagnano,QB,targets,Zay Flowers,WR,0.2793,0.2983,0.019,6,3
-2026,BUF,DJ Moore,WR,carries,James Cook,RB,0.6529,0.7609,0.108,7,2
+2026,BAL,Joe Fagnano,QB,targets,Rashod Bateman,WR,0.1215,0.1427,0.0212,7,4
+2026,BAL,Joe Fagnano,QB,targets,Zay Flowers,WR,0.2831,0.2983,0.0152,7,3
+2026,BUF,DJ Moore,WR,carries,James Cook,RB,0.6771,0.7609,0.0838,8,2
 2026,BUF,DJ Moore,WR,targets,Dalton Kincaid,TE,0.1565,0.2123,0.0558,7,2
-2026,BUF,DJ Moore,WR,targets,Ty Johnson,RB,0.0846,0.1386,0.054,5,2
-2026,BUF,DJ Moore,WR,targets,Dawson Knox,TE,0.0833,0.0956,0.0123,7,2
+2026,BUF,DJ Moore,WR,targets,Ty Johnson,RB,0.1008,0.1386,0.0378,6,2
+2026,BUF,DJ Moore,WR,targets,Dawson Knox,TE,0.0814,0.0956,0.0142,8,2
+2026,BUF,DJ Moore,WR,targets,Keon Coleman,WR,0.1394,0.1526,0.0133,8,2
 2026,BUF,Ty Johnson,RB,carries,Josh Allen,QB,0.1798,0.2917,0.1119,7,2
 2026,BUF,Ty Johnson,RB,targets,Dalton Kincaid,TE,0.1467,0.2463,0.0996,7,2
-2026,BUF,Ty Johnson,RB,targets,James Cook,RB,0.0608,0.1225,0.0617,7,2
-2026,BUF,Ty Johnson,RB,targets,DJ Moore,WR,0.2226,0.2759,0.0532,5,1
-2026,BUF,Ty Johnson,RB,targets,Khalil Shakir,WR,0.1698,0.2106,0.0408,7,2
-2026,BUF,Josh Palmer,WR,carries,James Cook,RB,0.6702,0.6905,0.0203,6,3
-2026,BUF,Josh Palmer,WR,targets,Dawson Knox,TE,0.0502,0.1577,0.1075,6,3
+2026,BUF,Ty Johnson,RB,targets,James Cook,RB,0.0589,0.1225,0.0636,8,2
+2026,BUF,Ty Johnson,RB,targets,DJ Moore,WR,0.2234,0.2759,0.0525,6,1
+2026,BUF,Ty Johnson,RB,targets,Khalil Shakir,WR,0.1741,0.2106,0.0364,8,2
+2026,BUF,Josh Palmer,WR,carries,James Cook,RB,0.6702,0.7294,0.0592,6,4
+2026,BUF,Josh Palmer,WR,targets,Dawson Knox,TE,0.0502,0.1353,0.0852,6,4
 2026,BUF,Josh Palmer,WR,targets,Skyler Bell,WR,0.0333,0.1053,0.0719,1,1
-2026,BUF,Josh Palmer,WR,targets,Ty Johnson,RB,0.0933,0.109,0.0157,4,3
-2026,BUF,Josh Palmer,WR,targets,Ray Davis,RB,0.0328,0.0436,0.0108,2,2
-2026,CAR,AJ Dillon,RB,carries,Chuba Hubbard,RB,0.6571,0.7785,0.1213,4,5
+2026,BUF,Josh Palmer,WR,targets,Ty Johnson,RB,0.0933,0.1272,0.0339,4,4
+2026,BUF,Josh Palmer,WR,targets,Ray Davis,RB,0.0328,0.0442,0.0114,2,3
+2026,BUF,Dalton Kincaid,TE,carries,James Cook,RB,0.6769,0.8462,0.1692,9,1
+2026,BUF,Dalton Kincaid,TE,targets,Ty Johnson,RB,0.1001,0.1818,0.0818,7,1
+2026,BUF,Dalton Kincaid,TE,targets,Keleki Latu,TE,0.0345,0.0909,0.0564,1,1
+2026,BUF,Dalton Kincaid,TE,targets,Khalil Shakir,WR,0.1789,0.2045,0.0257,9,1
+2026,CAR,AJ Dillon,RB,carries,Chuba Hubbard,RB,0.6571,0.786,0.1289,4,6
 2026,CAR,AJ Dillon,RB,carries,Kenny Pickett,QB,0.0455,0.0556,0.0101,1,1
 2026,CAR,AJ Dillon,RB,targets,Chuba Hubbard,RB,0.0743,0.1515,0.0772,4,5
-2026,CAR,AJ Dillon,RB,targets,Tommy Tremble,TE,0.1018,0.1196,0.0178,4,5
+2026,CAR,AJ Dillon,RB,targets,Mitchell Evans,TE,0.0468,0.0679,0.0211,4,6
 2026,CAR,John Metchie III,WR,carries,AJ Dillon,RB,0.1673,0.2273,0.06,3,1
 2026,CAR,John Metchie III,WR,carries,Bryce Young,QB,0.0425,0.0909,0.0484,6,1
-2026,CAR,John Metchie III,WR,targets,Jalen Coker,WR,0.1839,0.2647,0.0808,7,1
-2026,CAR,John Metchie III,WR,targets,Tommy Tremble,TE,0.1073,0.1471,0.0398,8,1
+2026,CAR,John Metchie III,WR,targets,Jalen Coker,WR,0.1901,0.2647,0.0746,8,1
+2026,CAR,John Metchie III,WR,targets,Tommy Tremble,TE,0.0991,0.1471,0.048,9,1
 2026,CAR,John Metchie III,WR,targets,Jonathon Brooks,RB,0.0312,0.0588,0.0276,1,1
-2026,CAR,John Metchie III,WR,targets,Mitchell Evans,TE,0.0461,0.0588,0.0127,8,1
-2026,CAR,Xavier Legette,WR,carries,Chuba Hubbard,RB,0.6232,0.7752,0.152,3,6
-2026,CAR,Xavier Legette,WR,carries,Trevor Etienne,RB,0.0938,0.1273,0.0335,1,4
+2026,CAR,Xavier Legette,WR,carries,Chuba Hubbard,RB,0.6733,0.7752,0.1019,4,6
 2026,CAR,Xavier Legette,WR,carries,Jalen Coker,WR,0.0312,0.05,0.0188,1,1
 2026,CAR,Xavier Legette,WR,carries,Kenny Pickett,QB,0.0455,0.0556,0.0101,1,1
-2026,CAR,Xavier Legette,WR,targets,John Metchie III,WR,0.0345,0.1056,0.0711,1,6
-2026,CAR,Xavier Legette,WR,targets,Darren Waller,TE,0.0968,0.1324,0.0356,3,6
+2026,CAR,Xavier Legette,WR,targets,John Metchie III,WR,0.0672,0.1056,0.0384,2,6
+2026,CAR,Xavier Legette,WR,targets,Darren Waller,TE,0.0976,0.1324,0.0348,4,6
+2026,CAR,Xavier Legette,WR,targets,Brycen Tremayne,WR,0.0333,0.0618,0.0285,1,5
+2026,CAR,Xavier Legette,WR,targets,Trevor Etienne,RB,0.0511,0.069,0.0178,2,1
 2026,CAR,Xavier Legette,WR,targets,Chuba Hubbard,RB,0.1077,0.122,0.0143,3,6
-2026,CAR,Jalen Coker,WR,carries,Chuba Hubbard,RB,0.719,0.7692,0.0503,8,1
+2026,CAR,Jalen Coker,WR,carries,Chuba Hubbard,RB,0.7306,0.7692,0.0387,9,1
 2026,CAR,Jalen Coker,WR,carries,AJ Dillon,RB,0.1789,0.1923,0.0134,3,1
-2026,CAR,Jalen Coker,WR,targets,Tetairoa McMillan,WR,0.2326,0.4103,0.1777,8,1
-2026,CAR,Jalen Coker,WR,targets,John Metchie III,WR,0.09,0.1282,0.0382,6,1
-2026,CAR,Jalen Coker,WR,targets,Darren Waller,TE,0.1164,0.1538,0.0374,8,1
-2026,CAR,Jalen Coker,WR,targets,Brycen Tremayne,WR,0.058,0.0769,0.0189,4,1
+2026,CAR,Jalen Coker,WR,targets,Tetairoa McMillan,WR,0.2401,0.4103,0.1702,9,1
+2026,CAR,Jalen Coker,WR,targets,Darren Waller,TE,0.1146,0.1538,0.0393,9,1
+2026,CAR,Jalen Coker,WR,targets,John Metchie III,WR,0.0914,0.1282,0.0368,7,1
+2026,CAR,Jalen Coker,WR,targets,Brycen Tremayne,WR,0.0531,0.0769,0.0238,5,1
 2026,CAR,Trevor Etienne,RB,carries,Bryce Young,QB,0.0423,0.059,0.0167,4,3
-2026,CAR,Trevor Etienne,RB,targets,Brycen Tremayne,WR,0.0298,0.1099,0.0801,3,2
-2026,CAR,Trevor Etienne,RB,targets,John Metchie III,WR,0.0842,0.1236,0.0394,5,2
-2026,CAR,Trevor Etienne,RB,targets,Jalen Coker,WR,0.1822,0.2137,0.0315,5,3
-2026,CAR,Trevor Etienne,RB,targets,Tetairoa McMillan,WR,0.2388,0.2693,0.0305,5,4
+2026,CAR,Trevor Etienne,RB,targets,Brycen Tremayne,WR,0.0307,0.1099,0.0792,4,2
+2026,CAR,Trevor Etienne,RB,targets,John Metchie III,WR,0.0868,0.1236,0.0368,6,2
+2026,CAR,Trevor Etienne,RB,targets,Jalen Coker,WR,0.1907,0.2137,0.023,6,3
+2026,CAR,Trevor Etienne,RB,targets,Tetairoa McMillan,WR,0.249,0.2693,0.0203,6,4
 2026,CAR,Trevor Etienne,RB,targets,David Moore,WR,0.0311,0.0476,0.0165,2,1
-2026,CHI,Caleb Williams,QB,carries,Kyle Monangai,RB,0.2895,0.4456,0.1561,2,2
-2026,CHI,Caleb Williams,QB,carries,Luther Burden III,WR,0.0301,0.0722,0.0421,2,3
+2026,CHI,Caleb Williams,QB,carries,Kyle Monangai,RB,0.279,0.4456,0.1666,3,2
+2026,CHI,Caleb Williams,QB,carries,Luther Burden III,WR,0.0308,0.0722,0.0414,3,3
 2026,CHI,Caleb Williams,QB,carries,Kalif Raymond,WR,0.0294,0.0417,0.0123,1,1
 2026,CHI,Caleb Williams,QB,targets,Roschon Johnson,RB,0.045,0.1036,0.0586,2,2
-2026,CHI,Caleb Williams,QB,targets,Rome Odunze,WR,0.1532,0.2091,0.0559,6,3
-2026,CHI,Kyle Monangai,RB,carries,D'Andre Swift,RB,0.4695,0.6055,0.1361,4,5
+2026,CHI,Caleb Williams,QB,targets,Rome Odunze,WR,0.1576,0.2091,0.0514,7,3
+2026,CHI,Kyle Monangai,RB,carries,D'Andre Swift,RB,0.4594,0.6055,0.1461,5,5
 2026,CHI,Kyle Monangai,RB,carries,Roschon Johnson,RB,0.0784,0.2077,0.1292,1,4
 2026,CHI,Kyle Monangai,RB,carries,Tyson Bagent,QB,0.0196,0.125,0.1054,1,1
-2026,CHI,Kyle Monangai,RB,carries,Luther Burden III,WR,0.0252,0.1006,0.0754,3,2
-2026,CHI,Kyle Monangai,RB,targets,Colston Loveland,TE,0.1462,0.2357,0.0894,4,5
+2026,CHI,Kyle Monangai,RB,carries,Luther Burden III,WR,0.027,0.1006,0.0736,4,2
+2026,CHI,Kyle Monangai,RB,carries,Salvon Ahmed,RB,0.1935,0.25,0.0565,1,1
+2026,CHI,Kyle Monangai,RB,targets,Colston Loveland,TE,0.1455,0.2347,0.0891,5,5
 2026,CHI,Kyle Monangai,RB,targets,Roschon Johnson,RB,0.0323,0.0883,0.0561,1,3
-2026,CHI,Kyle Monangai,RB,targets,Zavion Thomas,WR,0.0294,0.0657,0.0363,1,4
-2026,CHI,Kyle Monangai,RB,targets,Rome Odunze,WR,0.1627,0.179,0.0163,4,5
-2026,CHI,Kyle Monangai,RB,targets,D'Andre Swift,RB,0.0895,0.1055,0.016,4,5
-2026,CIN,Erick All,TE,carries,Samaje Perine,RB,0.2221,0.3296,0.1075,6,3
-2026,CIN,Erick All,TE,targets,Ja'Marr Chase,WR,0.2269,0.3651,0.1382,6,3
-2026,CIN,Erick All,TE,targets,Chase Brown,RB,0.1512,0.1696,0.0185,6,3
+2026,CHI,Kyle Monangai,RB,targets,D'Andre Swift,RB,0.0906,0.1053,0.0147,5,5
+2026,CIN,Erick All,TE,carries,Samaje Perine,RB,0.2221,0.3626,0.1405,6,4
+2026,CIN,Erick All,TE,targets,Ja'Marr Chase,WR,0.2269,0.3301,0.1031,6,4
+2026,CIN,Erick All,TE,targets,Chase Brown,RB,0.1512,0.1772,0.0261,6,4
+2026,CIN,Erick All,TE,targets,Colbie Young,WR,0.0296,0.05,0.0204,2,1
+2026,CIN,Erick All,TE,targets,Samaje Perine,RB,0.057,0.072,0.015,5,3
 2026,CLE,Deshaun Watson,QB,carries,Dylan Sampson,RB,0.1534,0.2424,0.089,3,1
 2026,CLE,Deshaun Watson,QB,targets,Denzel Boston,WR,0.1957,0.2667,0.071,9,1
 2026,CLE,Deshaun Watson,QB,targets,Dylan Sampson,RB,0.1452,0.2,0.0548,3,1
@@ -1601,41 +1609,39 @@ season,team,out_player,out_pos,metric,beneficiary,benef_pos,share_with,share_wit
 2026,CLE,Quinshon Judkins,RB,targets,Jaleel McLaughlin,RB,0.0323,0.16,0.1277,2,1
 2026,CLE,Quinshon Judkins,RB,targets,Jerry Jeudy,WR,0.1122,0.16,0.0478,8,1
 2026,CLE,Quinshon Judkins,RB,targets,KC Concepcion,WR,0.1974,0.24,0.0426,9,1
-2026,DAL,Tyler Goodson,RB,carries,Dak Prescott,QB,0.102,0.1786,0.0766,6,2
-2026,DAL,Tyler Goodson,RB,carries,KaVontae Turpin,WR,0.0333,0.0446,0.0113,1,2
-2026,DAL,Tyler Goodson,RB,targets,George Pickens,WR,0.2023,0.319,0.1167,6,2
+2026,DAL,Tyler Goodson,RB,carries,Dak Prescott,QB,0.102,0.1535,0.0516,6,3
+2026,DAL,Tyler Goodson,RB,carries,KaVontae Turpin,WR,0.0333,0.0528,0.0194,1,3
+2026,DAL,Tyler Goodson,RB,targets,George Pickens,WR,0.2023,0.3205,0.1182,6,3
 2026,DAL,Tyler Goodson,RB,targets,Jake Ferguson,TE,0.0844,0.129,0.0446,6,1
-2026,DAL,Tyler Goodson,RB,targets,Ryan Flournoy,WR,0.1395,0.1668,0.0273,7,2
-2026,DAL,Tyler Goodson,RB,targets,Luke Schoonmaker,TE,0.0238,0.04,0.0162,2,1
+2026,DAL,Tyler Goodson,RB,targets,Luke Schoonmaker,TE,0.0238,0.0347,0.0109,2,2
 2026,DAL,George Pickens,WR,carries,Tyler Goodson,RB,0.1788,0.3636,0.1848,5,1
-2026,DAL,George Pickens,WR,targets,CeeDee Lamb,WR,0.3157,0.4706,0.1549,9,1
-2026,DAL,George Pickens,WR,targets,Javonte Williams,RB,0.0853,0.1471,0.0617,8,1
+2026,DAL,George Pickens,WR,targets,CeeDee Lamb,WR,0.3194,0.4706,0.1512,10,1
+2026,DAL,George Pickens,WR,targets,Javonte Williams,RB,0.0857,0.1471,0.0614,9,1
 2026,DAL,George Pickens,WR,targets,Jonathan Mingo,WR,0.0528,0.0882,0.0354,4,1
-2026,DAL,George Pickens,WR,targets,Brevyn Spann-Ford,TE,0.0709,0.0882,0.0173,8,1
-2026,DAL,Jake Ferguson,TE,carries,Dak Prescott,QB,0.1142,0.1667,0.0525,8,1
-2026,DAL,Jake Ferguson,TE,targets,George Pickens,WR,0.209,0.38,0.171,8,1
-2026,DAL,Jake Ferguson,TE,targets,Luke Schoonmaker,TE,0.027,0.04,0.013,3,1
-2026,DEN,Pat Bryant,WR,carries,Marvin Mims Jr.,WR,0.0385,0.0557,0.0172,1,3
-2026,DEN,Pat Bryant,WR,carries,Bo Nix,QB,0.1247,0.1371,0.0123,5,4
-2026,DEN,Pat Bryant,WR,targets,Jaylen Waddle,WR,0.177,0.2581,0.0811,5,4
+2026,DAL,George Pickens,WR,targets,Brevyn Spann-Ford,TE,0.0696,0.0882,0.0187,9,1
+2026,DAL,Jake Ferguson,TE,carries,Dak Prescott,QB,0.1142,0.1351,0.0209,8,2
+2026,DAL,Jake Ferguson,TE,carries,KaVontae Turpin,WR,0.0405,0.0553,0.0148,2,2
+2026,DAL,Jake Ferguson,TE,targets,George Pickens,WR,0.209,0.3518,0.1428,8,2
+2026,DEN,Pat Bryant,WR,carries,J.K. Dobbins,RB,0.3858,0.4546,0.0688,6,4
+2026,DEN,Pat Bryant,WR,carries,Marvin Mims Jr.,WR,0.0349,0.0557,0.0208,2,3
+2026,DEN,Pat Bryant,WR,carries,Bo Nix,QB,0.1248,0.1371,0.0123,6,4
+2026,DEN,Pat Bryant,WR,targets,Jaylen Waddle,WR,0.1787,0.2581,0.0793,6,4
 2026,DEN,Pat Bryant,WR,targets,J.K. Dobbins,RB,0.0473,0.108,0.0607,3,2
-2026,DEN,Pat Bryant,WR,targets,Marvin Mims Jr.,WR,0.068,0.1094,0.0413,2,4
+2026,DEN,Pat Bryant,WR,targets,Marvin Mims Jr.,WR,0.0662,0.1094,0.0432,3,4
 2026,DEN,Pat Bryant,WR,targets,Lil'Jordan Humphrey,WR,0.0345,0.0547,0.0203,1,3
-2026,DEN,Pat Bryant,WR,targets,Jonah Coleman,RB,0.1089,0.1233,0.0145,2,2
-2026,DEN,RJ Harvey,RB,carries,Jonah Coleman,RB,0.375,0.5179,0.1429,1,3
-2026,DEN,RJ Harvey,RB,carries,Marvin Mims Jr.,WR,0.0381,0.0647,0.0266,2,2
+2026,DEN,RJ Harvey,RB,carries,Jonah Coleman,RB,0.375,0.576,0.201,1,4
+2026,DEN,RJ Harvey,RB,carries,Marvin Mims Jr.,WR,0.0381,0.0535,0.0155,2,3
 2026,DEN,RJ Harvey,RB,targets,Tyler Badie,RB,0.0428,0.1034,0.0607,3,1
-2026,DEN,RJ Harvey,RB,targets,Jonah Coleman,RB,0.08,0.1281,0.0481,1,3
-2026,DEN,RJ Harvey,RB,targets,Troy Franklin,WR,0.056,0.0833,0.0273,5,3
-2026,DEN,RJ Harvey,RB,targets,Nate Adkins,TE,0.0606,0.0851,0.0245,1,2
-2026,DEN,RJ Harvey,RB,targets,Adam Trautman,TE,0.0591,0.0762,0.017,3,2
-2026,DEN,Jonah Coleman,RB,carries,J.K. Dobbins,RB,0.3387,0.6021,0.2635,5,4
+2026,DEN,RJ Harvey,RB,targets,Jonah Coleman,RB,0.08,0.1352,0.0552,1,4
+2026,DEN,RJ Harvey,RB,targets,Troy Franklin,WR,0.056,0.0781,0.0221,5,4
+2026,DEN,RJ Harvey,RB,targets,Nate Adkins,TE,0.0606,0.0775,0.0169,1,3
+2026,DEN,Jonah Coleman,RB,carries,J.K. Dobbins,RB,0.2875,0.6021,0.3147,6,4
 2026,DEN,Jonah Coleman,RB,carries,Tyler Badie,RB,0.04,0.0605,0.0205,1,4
 2026,DEN,Jonah Coleman,RB,targets,RJ Harvey,RB,0.1141,0.1719,0.0578,2,4
 2026,DEN,Jonah Coleman,RB,targets,Lil'Jordan Humphrey,WR,0.0359,0.0909,0.055,3,1
 2026,DEN,Jonah Coleman,RB,targets,J.K. Dobbins,RB,0.0286,0.0823,0.0537,1,4
-2026,DEN,Jonah Coleman,RB,targets,Marvin Mims Jr.,WR,0.079,0.1122,0.0331,3,3
-2026,DEN,Jonah Coleman,RB,targets,Jaylen Waddle,WR,0.1996,0.2298,0.0302,5,4
+2026,DEN,Jonah Coleman,RB,targets,Marvin Mims Jr.,WR,0.0749,0.1122,0.0373,4,3
+2026,DEN,Jonah Coleman,RB,targets,Jaylen Waddle,WR,0.1976,0.2298,0.0323,6,4
 2026,GB,Josh Jacobs,RB,carries,Kaleb Johnson,RB,0.4242,0.5882,0.164,1,1
 2026,GB,Josh Jacobs,RB,carries,MarShawn Lloyd,RB,0.2156,0.2353,0.0197,2,1
 2026,GB,Josh Jacobs,RB,targets,J. Michael Sturdivant,WR,0.0256,0.1379,0.1123,1,1
@@ -1666,30 +1672,45 @@ season,team,out_player,out_pos,metric,beneficiary,benef_pos,share_with,share_wit
 2026,GB,Kaleb Johnson,RB,carries,Josh Jacobs,RB,0.1212,0.6933,0.5721,1,2
 2026,GB,Kaleb Johnson,RB,targets,Matthew Golden,WR,0.2789,0.3095,0.0306,8,2
 2026,HOU,David Montgomery,RB,carries,Woody Marks,RB,0.3759,0.6381,0.2622,5,4
+2026,HOU,David Montgomery,RB,carries,Emari Demercado,RB,0.1389,0.2612,0.1223,1,2
 2026,HOU,David Montgomery,RB,targets,Cade Stover,TE,0.0327,0.069,0.0362,2,1
-2026,HOU,Nico Collins,WR,carries,C.J. Stroud,QB,0.0928,0.131,0.0381,7,2
+2026,HOU,Nico Collins,WR,carries,C.J. Stroud,QB,0.0986,0.131,0.0324,8,2
 2026,HOU,Nico Collins,WR,carries,Xavier Hutchinson,WR,0.08,0.0952,0.0152,1,1
 2026,HOU,Nico Collins,WR,targets,Jared Wayne,WR,0.027,0.15,0.123,1,2
-2026,HOU,Nico Collins,WR,targets,Dalton Schultz,TE,0.1389,0.2,0.0611,7,2
-2026,HOU,Nico Collins,WR,targets,Xavier Hutchinson,WR,0.1703,0.21,0.0397,7,2
-2026,HOU,Nico Collins,WR,targets,Foster Moreau,TE,0.0615,0.1,0.0385,4,2
+2026,HOU,Nico Collins,WR,targets,Dalton Schultz,TE,0.1264,0.2,0.0736,8,2
+2026,HOU,Nico Collins,WR,targets,Xavier Hutchinson,WR,0.1634,0.21,0.0466,8,2
+2026,HOU,Nico Collins,WR,targets,Foster Moreau,TE,0.0569,0.1,0.0431,5,2
 2026,HOU,Nico Collins,WR,targets,Woody Marks,RB,0.0644,0.08,0.0156,7,2
 2026,HOU,Tank Dell,WR,carries,Cade Stover,TE,0.04,0.08,0.04,1,1
 2026,HOU,Tank Dell,WR,carries,Xavier Hutchinson,WR,0.08,0.0952,0.0152,1,1
-2026,HOU,Tank Dell,WR,carries,C.J. Stroud,QB,0.094,0.1049,0.011,3,6
-2026,HOU,Tank Dell,WR,targets,Dalton Schultz,TE,0.1235,0.167,0.0435,3,6
+2026,HOU,Tank Dell,WR,targets,Dalton Schultz,TE,0.1023,0.167,0.0647,4,6
+2026,HOU,Tank Dell,WR,targets,Foster Moreau,TE,0.0385,0.0743,0.0359,1,6
 2026,HOU,Tank Dell,WR,targets,Jaylin Noel,WR,0.069,0.1043,0.0354,1,6
-2026,HOU,Tank Dell,WR,targets,Kayshon Boutte,WR,0.0773,0.1055,0.0282,3,6
+2026,HOU,Tank Dell,WR,targets,Kayshon Boutte,WR,0.0772,0.1055,0.0283,4,6
 2026,HOU,Tank Dell,WR,targets,Woody Marks,RB,0.0568,0.0734,0.0166,3,6
-2026,HOU,Tank Dell,WR,targets,Marvin Harrison Jr.,WR,0.1095,0.125,0.0155,2,1
-2026,HOU,Marvin Harrison Jr.,WR,carries,Emari Demercado,RB,0.2308,0.2917,0.0609,1,1
-2026,HOU,Marvin Harrison Jr.,WR,carries,C.J. Stroud,QB,0.0656,0.125,0.0594,3,1
-2026,HOU,Marvin Harrison Jr.,WR,targets,Nico Collins,WR,0.1456,0.4444,0.2989,3,1
-2026,HOU,Marvin Harrison Jr.,WR,targets,Xavier Hutchinson,WR,0.1453,0.25,0.1047,3,1
+2026,HOU,Marvin Harrison Jr.,WR,carries,C.J. Stroud,QB,0.0656,0.1319,0.0663,3,2
+2026,HOU,Marvin Harrison Jr.,WR,targets,Nico Collins,WR,0.1456,0.3184,0.1728,3,2
+2026,HOU,Marvin Harrison Jr.,WR,targets,Xavier Hutchinson,WR,0.1453,0.1827,0.0374,3,2
+2026,HOU,Marvin Harrison Jr.,WR,targets,Emari Demercado,RB,0.0541,0.0662,0.0122,1,2
+2026,HOU,Jaylin Noel,WR,carries,David Montgomery,RB,0.4417,0.7222,0.2805,5,1
 2026,HOU,Jaylin Noel,WR,carries,Woody Marks,RB,0.4628,0.5962,0.1334,7,2
-2026,HOU,Jaylin Noel,WR,targets,Tank Dell,WR,0.0345,0.1772,0.1427,1,2
-2026,HOU,Jaylin Noel,WR,targets,Nico Collins,WR,0.2237,0.2763,0.0525,5,2
-2026,HOU,Jaylin Noel,WR,targets,Xavier Hutchinson,WR,0.1752,0.1926,0.0173,7,2
+2026,HOU,Jaylin Noel,WR,carries,C.J. Stroud,QB,0.1014,0.1136,0.0122,7,3
+2026,HOU,Jaylin Noel,WR,targets,Tank Dell,WR,0.0345,0.1694,0.1349,1,3
+2026,HOU,Jaylin Noel,WR,targets,Marlin Klein,TE,0.027,0.1538,0.1268,1,1
+2026,HOU,Jaylin Noel,WR,targets,David Montgomery,RB,0.067,0.1538,0.0868,3,1
+2026,HOU,Jaylin Noel,WR,targets,Nico Collins,WR,0.2237,0.2483,0.0245,5,3
+2026,HOU,Woody Marks,RB,carries,David Montgomery,RB,0.4417,0.7222,0.2805,5,1
+2026,HOU,Woody Marks,RB,carries,C.J. Stroud,QB,0.1013,0.1389,0.0376,9,1
+2026,HOU,Woody Marks,RB,targets,Marlin Klein,TE,0.027,0.1538,0.1268,1,1
+2026,HOU,Woody Marks,RB,targets,David Montgomery,RB,0.067,0.1538,0.0868,3,1
+2026,HOU,Woody Marks,RB,targets,Tank Dell,WR,0.1296,0.1538,0.0242,3,1
+2026,HOU,Woody Marks,RB,targets,Emari Demercado,RB,0.0548,0.0769,0.0221,2,1
+2026,HOU,Marlin Klein,TE,carries,Woody Marks,RB,0.4312,0.5689,0.1377,5,4
+2026,HOU,Marlin Klein,TE,targets,Marvin Harrison Jr.,WR,0.0811,0.1315,0.0504,1,2
+2026,HOU,Marlin Klein,TE,targets,Kayshon Boutte,WR,0.079,0.117,0.038,6,4
+2026,HOU,Marlin Klein,TE,targets,Jaylin Noel,WR,0.078,0.1152,0.0372,3,4
+2026,HOU,Marlin Klein,TE,targets,Cade Stover,TE,0.027,0.0537,0.0267,1,2
+2026,HOU,Marlin Klein,TE,targets,Dalton Schultz,TE,0.1364,0.1481,0.0117,6,4
 2026,IND,Keenan Allen,WR,carries,Jonathan Taylor,RB,0.6514,0.7143,0.0629,8,1
 2026,IND,Keenan Allen,WR,carries,Seth McGowan,RB,0.1908,0.2143,0.0235,7,1
 2026,IND,Keenan Allen,WR,targets,Ashton Dulin,WR,0.0485,0.2069,0.1584,2,1
@@ -1697,56 +1718,61 @@ season,team,out_player,out_pos,metric,beneficiary,benef_pos,share_with,share_wit
 2026,IND,Keenan Allen,WR,targets,Seth McGowan,RB,0.0342,0.069,0.0348,4,1
 2026,IND,Keenan Allen,WR,targets,Deion Burks,WR,0.0423,0.069,0.0267,5,1
 2026,IND,Keenan Allen,WR,targets,Jonathan Taylor,RB,0.1276,0.1379,0.0103,8,1
-2026,IND,Ashton Dulin,WR,carries,Jonathan Taylor,RB,0.6014,0.7042,0.1029,6,4
+2026,IND,Ashton Dulin,WR,carries,Jonathan Taylor,RB,0.6079,0.7042,0.0963,7,4
+2026,IND,Ashton Dulin,WR,carries,Daniel Jones,QB,0.0929,0.1039,0.0109,7,4
 2026,IND,Ashton Dulin,WR,targets,Josh Downs,WR,0.1641,0.2411,0.077,5,4
-2026,IND,Ashton Dulin,WR,targets,Tyler Warren,TE,0.208,0.2428,0.0348,5,3
+2026,IND,Ashton Dulin,WR,targets,Tyler Warren,TE,0.2053,0.2428,0.0374,6,3
+2026,IND,Ashton Dulin,WR,targets,Laquon Treadwell,WR,0.088,0.1115,0.0236,7,4
 2026,IND,Ashton Dulin,WR,targets,Keenan Allen,WR,0.2083,0.2306,0.0224,4,4
-2026,IND,Ashton Dulin,WR,targets,Laquon Treadwell,WR,0.0962,0.1115,0.0153,6,4
 2026,IND,Ashton Dulin,WR,targets,Will Mallory,TE,0.1429,0.1579,0.015,1,1
-2026,IND,Will Mallory,TE,carries,Jonathan Taylor,RB,0.5263,0.6923,0.1661,3,7
+2026,IND,Will Mallory,TE,carries,Jonathan Taylor,RB,0.5263,0.6867,0.1604,3,8
 2026,IND,Will Mallory,TE,carries,Deion Burks,WR,0.0333,0.0625,0.0292,1,1
-2026,IND,Will Mallory,TE,targets,Deion Burks,WR,0.0445,0.0605,0.016,3,4
+2026,IND,Will Mallory,TE,carries,Anthony Richardson,QB,0.0417,0.0588,0.0172,1,1
+2026,IND,Will Mallory,TE,targets,Deion Burks,WR,0.0445,0.0715,0.0269,3,5
 2026,IND,Will Mallory,TE,targets,Josh Downs,WR,0.1892,0.2029,0.0136,3,6
-2026,IND,Anthony Gould,WR,carries,Seth McGowan,RB,0.1976,0.2708,0.0732,7,2
-2026,IND,Anthony Gould,WR,carries,Daniel Jones,QB,0.1016,0.1231,0.0215,7,2
-2026,IND,Anthony Gould,WR,targets,Tyler Warren,TE,0.2104,0.3333,0.1229,6,1
+2026,IND,Anthony Gould,WR,carries,DJ Giddens,RB,0.0588,0.25,0.1912,1,1
+2026,IND,Anthony Gould,WR,carries,Seth McGowan,RB,0.195,0.2708,0.0759,8,2
+2026,IND,Anthony Gould,WR,carries,Daniel Jones,QB,0.0962,0.1231,0.0269,8,2
+2026,IND,Anthony Gould,WR,targets,Tyler Warren,TE,0.2078,0.3333,0.1255,7,1
 2026,IND,Anthony Gould,WR,targets,Mo Alie-Cox,TE,0.0338,0.0952,0.0614,3,1
 2026,IND,Anthony Gould,WR,targets,Andrew Ogletree,TE,0.0506,0.0952,0.0446,3,1
-2026,IND,Anthony Gould,WR,targets,Jonathan Taylor,RB,0.1289,0.1548,0.0259,7,2
-2026,IND,Tyler Warren,TE,carries,Seth McGowan,RB,0.2083,0.2333,0.025,7,2
-2026,IND,Tyler Warren,TE,carries,Daniel Jones,QB,0.0983,0.1106,0.0123,8,2
+2026,IND,Anthony Gould,WR,targets,Jonathan Taylor,RB,0.1368,0.1548,0.018,8,2
+2026,IND,Tyler Warren,TE,carries,Seth McGowan,RB,0.2044,0.2333,0.029,8,2
+2026,IND,Tyler Warren,TE,carries,Daniel Jones,QB,0.0939,0.1106,0.0167,9,2
 2026,IND,Tyler Warren,TE,targets,Andrew Ogletree,TE,0.0466,0.0952,0.0487,4,1
 2026,IND,Tyler Warren,TE,targets,Mo Alie-Cox,TE,0.0375,0.0608,0.0232,2,2
-2026,IND,Tyler Warren,TE,targets,Laquon Treadwell,WR,0.0996,0.1134,0.0138,8,2
-2026,IND,DJ Giddens,RB,carries,Jonathan Taylor,RB,0.5448,0.7891,0.2442,6,4
+2026,IND,Tyler Warren,TE,targets,Laquon Treadwell,WR,0.0928,0.1134,0.0206,9,2
+2026,IND,DJ Giddens,RB,carries,Jonathan Taylor,RB,0.5594,0.7891,0.2296,7,4
 2026,IND,DJ Giddens,RB,carries,Deion Burks,WR,0.0333,0.0625,0.0292,1,1
 2026,IND,DJ Giddens,RB,targets,Josh Downs,WR,0.1789,0.2225,0.0436,5,4
-2026,IND,DJ Giddens,RB,targets,Ashton Dulin,WR,0.0789,0.1207,0.0418,2,2
-2026,IND,DJ Giddens,RB,targets,Deion Burks,WR,0.0511,0.069,0.0179,6,1
-2026,IND,DJ Giddens,RB,targets,Seth McGowan,RB,0.034,0.0517,0.0177,3,2
-2026,KC,Tyquan Thornton,WR,carries,Emmett Johnson,RB,0.1792,0.2925,0.1133,3,4
+2026,IND,DJ Giddens,RB,targets,Ashton Dulin,WR,0.1039,0.1207,0.0168,3,2
+2026,IND,DJ Giddens,RB,targets,Seth McGowan,RB,0.0351,0.0517,0.0166,4,2
+2026,KC,Tyquan Thornton,WR,carries,Emmett Johnson,RB,0.1792,0.3926,0.2134,3,5
 2026,KC,Tyquan Thornton,WR,carries,Patrick Mahomes,QB,0.0658,0.0934,0.0276,4,5
-2026,KC,Tyquan Thornton,WR,targets,Emmett Johnson,RB,0.0541,0.1352,0.0811,3,4
-2026,KC,Tyquan Thornton,WR,targets,Cyrus Allen,WR,0.0379,0.0732,0.0354,2,5
-2026,KC,Tyquan Thornton,WR,targets,Jalen Royals,WR,0.0538,0.0739,0.0201,3,4
+2026,KC,Tyquan Thornton,WR,targets,Emmett Johnson,RB,0.0541,0.1298,0.0757,3,5
+2026,KC,Tyquan Thornton,WR,targets,Cyrus Allen,WR,0.0379,0.079,0.0412,2,6
+2026,KC,Tyquan Thornton,WR,targets,Jalen Royals,WR,0.0538,0.0645,0.0107,3,5
 2026,KC,Tyquan Thornton,WR,targets,Jake Briningstool,TE,0.0417,0.052,0.0102,2,3
-2026,KC,Kenneth Walker III,RB,carries,Emmett Johnson,RB,0.1488,0.8148,0.666,6,1
-2026,KC,Kenneth Walker III,RB,targets,Emmett Johnson,RB,0.0818,0.2121,0.1303,6,1
-2026,KC,Kenneth Walker III,RB,targets,Cyrus Allen,WR,0.0534,0.1212,0.0678,6,1
-2026,KC,Kenneth Walker III,RB,targets,Noah Gray,TE,0.0731,0.0909,0.0178,8,1
+2026,KC,Kenneth Walker III,RB,carries,Emmett Johnson,RB,0.1488,0.804,0.6552,6,2
+2026,KC,Kenneth Walker III,RB,carries,Jaydn Ott,RB,0.0968,0.1724,0.0756,1,1
+2026,KC,Kenneth Walker III,RB,targets,Emmett Johnson,RB,0.0818,0.1601,0.0783,6,2
+2026,KC,Kenneth Walker III,RB,targets,Cyrus Allen,WR,0.0534,0.1147,0.0612,6,2
+2026,KC,Kenneth Walker III,RB,targets,Noah Gray,TE,0.0731,0.113,0.0399,8,2
 2026,KC,Kenneth Walker III,RB,targets,Jake Briningstool,TE,0.0447,0.0606,0.0159,4,1
 2026,KC,Rashee Rice,WR,carries,Kenneth Walker III,RB,0.7567,0.8175,0.0608,6,2
 2026,KC,Rashee Rice,WR,carries,Patrick Mahomes,QB,0.0693,0.1225,0.0532,7,2
-2026,KC,Rashee Rice,WR,targets,Jalen Royals,WR,0.0513,0.1002,0.0489,5,2
-2026,KC,Rashee Rice,WR,targets,Travis Kelce,TE,0.1625,0.2112,0.0487,7,2
-2026,KC,Rashee Rice,WR,targets,Xavier Worthy,WR,0.1708,0.2144,0.0437,7,2
-2026,KC,Rashee Rice,WR,targets,Andrew Armstrong,WR,0.0303,0.0657,0.0354,1,2
-2026,KC,Rashee Rice,WR,targets,Noah Gray,TE,0.0684,0.0986,0.0302,7,2
-2026,KC,Jaydn Ott,RB,carries,Emmett Johnson,RB,0.1176,0.8148,0.6972,2,1
-2026,KC,Jaydn Ott,RB,targets,Emmett Johnson,RB,0.1127,0.2121,0.0995,2,1
-2026,KC,Jaydn Ott,RB,targets,Cyrus Allen,WR,0.0586,0.1212,0.0626,3,1
-2026,KC,Jaydn Ott,RB,targets,Noah Gray,TE,0.0603,0.0909,0.0306,3,1
+2026,KC,Rashee Rice,WR,targets,Jalen Royals,WR,0.0473,0.1002,0.0529,6,2
+2026,KC,Rashee Rice,WR,targets,Xavier Worthy,WR,0.1629,0.2144,0.0515,8,2
+2026,KC,Rashee Rice,WR,targets,Travis Kelce,TE,0.1658,0.2112,0.0454,8,2
+2026,KC,Rashee Rice,WR,targets,Andrew Armstrong,WR,0.0287,0.0657,0.0371,2,2
+2026,KC,Rashee Rice,WR,targets,Noah Gray,TE,0.0767,0.0986,0.0219,8,2
+2026,KC,Jaydn Ott,RB,carries,Emmett Johnson,RB,0.3428,0.8148,0.472,3,1
+2026,KC,Jaydn Ott,RB,carries,Nate Carter,RB,0.0345,0.0741,0.0396,1,1
+2026,KC,Jaydn Ott,RB,targets,Emmett Johnson,RB,0.1111,0.2121,0.101,3,1
+2026,KC,Jaydn Ott,RB,targets,Cyrus Allen,WR,0.071,0.1212,0.0502,4,1
+2026,KC,Jaydn Ott,RB,targets,Josh Downs,WR,0.1351,0.1515,0.0164,1,1
 2026,KC,Jaydn Ott,RB,targets,Jake Briningstool,TE,0.0476,0.0606,0.013,2,1
+2026,KC,Jaydn Ott,RB,targets,Noah Gray,TE,0.079,0.0909,0.0119,4,1
 2026,LA,Davante Adams,WR,carries,Ronnie Rivers,RB,0.1786,0.3409,0.1623,1,1
 2026,LA,Davante Adams,WR,carries,Blake Corum,RB,0.329,0.4147,0.0857,6,4
 2026,LA,Davante Adams,WR,targets,Puka Nacua,WR,0.3091,0.4294,0.1203,4,3
@@ -1780,137 +1806,142 @@ season,team,out_player,out_pos,metric,beneficiary,benef_pos,share_with,share_wit
 2026,LA,Terrance Ferguson,TE,targets,Kyren Williams,RB,0.1069,0.1421,0.0352,3,7
 2026,LA,Terrance Ferguson,TE,targets,Puka Nacua,WR,0.3333,0.3652,0.0319,1,6
 2026,LA,Terrance Ferguson,TE,targets,Davis Allen,TE,0.0439,0.0736,0.0297,3,5
-2026,LAC,David Njoku,TE,carries,Kimani Vidal,RB,0.0588,0.2165,0.1576,1,6
+2026,LAC,David Njoku,TE,carries,Kimani Vidal,RB,0.1461,0.2165,0.0704,2,6
 2026,LAC,David Njoku,TE,carries,Keaton Mitchell,RB,0.145,0.2098,0.0648,3,6
-2026,LAC,David Njoku,TE,targets,Keaton Mitchell,RB,0.0505,0.122,0.0715,2,6
+2026,LAC,David Njoku,TE,targets,Keaton Mitchell,RB,0.0495,0.122,0.0724,3,6
 2026,LAC,David Njoku,TE,targets,Oronde Gadsden II,TE,0.0712,0.1385,0.0674,3,6
+2026,LAC,David Njoku,TE,targets,Charlie Kolar,TE,0.1168,0.1468,0.03,3,4
 2026,LAC,David Njoku,TE,targets,Derius Davis,WR,0.0377,0.0484,0.0106,2,2
-2026,LAC,Alec Ingold,RB,carries,Kimani Vidal,RB,0.1424,0.2326,0.0902,3,4
-2026,LAC,Alec Ingold,RB,targets,Omarion Hampton,RB,0.0548,0.112,0.0572,4,3
-2026,LAC,Alec Ingold,RB,targets,Tre Harris,WR,0.1803,0.2128,0.0325,5,3
+2026,LAC,Alec Ingold,RB,carries,Kimani Vidal,RB,0.1424,0.2327,0.0903,3,5
+2026,LAC,Alec Ingold,RB,carries,Justin Herbert,QB,0.1677,0.1786,0.0109,5,5
+2026,LAC,Alec Ingold,RB,targets,Ladd McConkey,WR,0.1477,0.2029,0.0552,4,3
+2026,LAC,Alec Ingold,RB,targets,Omarion Hampton,RB,0.0548,0.0959,0.0411,4,4
+2026,LAC,Alec Ingold,RB,targets,David Njoku,TE,0.1503,0.1905,0.0402,2,1
 2026,LAC,Alec Ingold,RB,targets,Derius Davis,WR,0.0359,0.0645,0.0286,3,1
 2026,LAC,Alec Ingold,RB,targets,Theo Wease Jr.,WR,0.0476,0.0729,0.0253,1,2
-2026,LAC,Alec Ingold,RB,targets,Oronde Gadsden II,TE,0.1095,0.1243,0.0148,5,4
 2026,LAC,Charlie Kolar,TE,carries,Keaton Mitchell,RB,0.1565,0.2991,0.1426,7,2
 2026,LAC,Charlie Kolar,TE,targets,Oronde Gadsden II,TE,0.0994,0.1745,0.0751,7,2
-2026,LAC,Charlie Kolar,TE,targets,Keaton Mitchell,RB,0.0914,0.1422,0.0509,6,2
-2026,LAC,Quentin Johnston,WR,carries,Kimani Vidal,RB,0.1871,0.2353,0.0482,6,1
-2026,LAC,Quentin Johnston,WR,carries,Justin Herbert,QB,0.1611,0.1765,0.0154,8,1
+2026,LAC,Charlie Kolar,TE,targets,Keaton Mitchell,RB,0.0851,0.1422,0.0571,7,2
+2026,LAC,Quentin Johnston,WR,carries,Kimani Vidal,RB,0.1937,0.2353,0.0416,7,1
 2026,LAC,Quentin Johnston,WR,targets,Marquez Valdes-Scantling,WR,0.0313,0.1429,0.1116,2,1
-2026,LAC,Quentin Johnston,WR,targets,Keaton Mitchell,RB,0.0917,0.1905,0.0987,7,1
-2026,LAC,Quentin Johnston,WR,targets,Charlie Kolar,TE,0.1399,0.1905,0.0505,5,1
-2026,LAC,Ladd McConkey,WR,carries,Omarion Hampton,RB,0.4538,0.6471,0.1933,8,1
-2026,LAC,Ladd McConkey,WR,carries,Justin Herbert,QB,0.1574,0.2059,0.0485,8,1
-2026,LAC,Ladd McConkey,WR,targets,Tre Harris,WR,0.1753,0.3125,0.1372,7,1
-2026,LAC,Ladd McConkey,WR,targets,Omarion Hampton,RB,0.0717,0.125,0.0533,6,1
-2026,LAC,Ladd McConkey,WR,targets,Charlie Kolar,TE,0.1405,0.1875,0.047,5,1
-2026,LAC,Ladd McConkey,WR,targets,Kimani Vidal,RB,0.0929,0.125,0.0321,6,1
+2026,LAC,Quentin Johnston,WR,targets,Keaton Mitchell,RB,0.0862,0.1905,0.1042,8,1
+2026,LAC,Quentin Johnston,WR,targets,Charlie Kolar,TE,0.1245,0.1905,0.0659,6,1
+2026,LAC,Ladd McConkey,WR,carries,Omarion Hampton,RB,0.4552,0.6471,0.1918,9,1
+2026,LAC,Ladd McConkey,WR,carries,Justin Herbert,QB,0.1695,0.2059,0.0363,9,1
+2026,LAC,Ladd McConkey,WR,targets,Tre Harris,WR,0.1653,0.3125,0.1472,8,1
+2026,LAC,Ladd McConkey,WR,targets,Charlie Kolar,TE,0.125,0.1875,0.0625,6,1
+2026,LAC,Ladd McConkey,WR,targets,Omarion Hampton,RB,0.0683,0.125,0.0567,7,1
+2026,LAC,Ladd McConkey,WR,targets,Kimani Vidal,RB,0.0932,0.125,0.0318,7,1
 2026,LAC,KeAndre Lambert-Smith,WR,carries,Keaton Mitchell,RB,0.1526,0.2327,0.0801,5,4
-2026,LAC,KeAndre Lambert-Smith,WR,carries,Omarion Hampton,RB,0.466,0.4869,0.0209,5,4
-2026,LAC,KeAndre Lambert-Smith,WR,targets,Keaton Mitchell,RB,0.0798,0.1283,0.0485,4,4
-2026,LAC,KeAndre Lambert-Smith,WR,targets,Quentin Johnston,WR,0.1261,0.1462,0.0201,5,3
-2026,LAC,Tre Harris,WR,carries,Kimani Vidal,RB,0.1732,0.3182,0.1449,6,1
-2026,LAC,Tre Harris,WR,carries,Justin Herbert,QB,0.1547,0.2273,0.0725,8,1
+2026,LAC,KeAndre Lambert-Smith,WR,carries,Omarion Hampton,RB,0.466,0.4828,0.0168,5,5
+2026,LAC,KeAndre Lambert-Smith,WR,targets,Keaton Mitchell,RB,0.0798,0.1122,0.0324,4,5
+2026,LAC,KeAndre Lambert-Smith,WR,targets,Ladd McConkey,WR,0.1623,0.1781,0.0157,3,4
+2026,LAC,Tre Harris,WR,carries,Kimani Vidal,RB,0.1818,0.3182,0.1364,7,1
+2026,LAC,Tre Harris,WR,carries,Justin Herbert,QB,0.1672,0.2273,0.0601,9,1
 2026,LAC,Tre Harris,WR,targets,KeAndre Lambert-Smith,WR,0.129,0.25,0.121,1,1
-2026,LAC,Tre Harris,WR,targets,Omarion Hampton,RB,0.0741,0.1111,0.0371,6,1
+2026,LAC,Tre Harris,WR,targets,Omarion Hampton,RB,0.0703,0.1111,0.0408,7,1
+2026,LAC,Tre Harris,WR,targets,Charlie Kolar,TE,0.1285,0.1667,0.0382,6,1
 2026,LAC,Tre Harris,WR,targets,Theo Wease Jr.,WR,0.0551,0.0833,0.0283,2,1
 2026,LAC,Tre Harris,WR,targets,Oronde Gadsden II,TE,0.1132,0.1389,0.0257,8,1
-2026,LAC,Tre Harris,WR,targets,Charlie Kolar,TE,0.1447,0.1667,0.022,5,1
 2026,LAC,Brenen Thompson,WR,carries,Keaton Mitchell,RB,0.1459,0.2094,0.0635,3,6
-2026,LAC,Brenen Thompson,WR,targets,Keaton Mitchell,RB,0.0331,0.1277,0.0946,2,6
-2026,LAC,Brenen Thompson,WR,targets,Tre Harris,WR,0.1688,0.2004,0.0316,2,6
+2026,LAC,Brenen Thompson,WR,targets,Keaton Mitchell,RB,0.0331,0.1163,0.0832,2,7
+2026,LAC,Brenen Thompson,WR,targets,Ladd McConkey,WR,0.1341,0.1992,0.0651,3,4
+2026,LAC,Brenen Thompson,WR,targets,David Njoku,TE,0.1503,0.1905,0.0402,2,1
 2026,LAC,Brenen Thompson,WR,targets,Oronde Gadsden II,TE,0.0966,0.1258,0.0292,3,6
-2026,LAC,Brenen Thompson,WR,targets,Charlie Kolar,TE,0.141,0.152,0.011,2,4
-2026,LAC,Brenen Thompson,WR,targets,Derius Davis,WR,0.0377,0.0484,0.0106,2,2
+2026,LAC,Brenen Thompson,WR,targets,Tre Harris,WR,0.1688,0.1853,0.0165,2,7
 2026,LV,Jalen Nailor,WR,carries,Dylan Laube,RB,0.05,0.2222,0.1722,1,1
-2026,LV,Jalen Nailor,WR,carries,Ashton Jeanty,RB,0.5146,0.5556,0.041,9,1
+2026,LV,Jalen Nailor,WR,carries,Ashton Jeanty,RB,0.509,0.5556,0.0466,10,1
 2026,LV,Jalen Nailor,WR,targets,Malik Benson,WR,0.0395,0.1111,0.0716,4,1
 2026,LV,Jalen Nailor,WR,targets,Dylan Laube,RB,0.0256,0.0833,0.0577,1,1
 2026,LV,Jalen Nailor,WR,targets,Cody White,WR,0.0653,0.1111,0.0458,7,1
 2026,LV,Jalen Nailor,WR,targets,Brock Bowers,TE,0.257,0.2778,0.0208,7,1
-2026,LV,Brock Bowers,TE,carries,Ashton Jeanty,RB,0.4628,0.7421,0.2793,8,2
-2026,LV,Brock Bowers,TE,targets,Ashton Jeanty,RB,0.1647,0.2241,0.0595,8,2
-2026,LV,Brock Bowers,TE,targets,Michael Mayer,TE,0.1339,0.1897,0.0558,8,2
-2026,LV,Brock Bowers,TE,targets,Tre Tucker,WR,0.1552,0.1897,0.0345,8,2
-2026,LV,Brock Bowers,TE,targets,Jalen Nailor,WR,0.1276,0.1379,0.0103,6,2
+2026,LV,Brock Bowers,TE,carries,Ashton Jeanty,RB,0.4628,0.6475,0.1847,8,3
+2026,LV,Brock Bowers,TE,carries,Fernando Mendoza,QB,0.1528,0.1667,0.0139,2,1
+2026,LV,Brock Bowers,TE,targets,Tre Tucker,WR,0.1552,0.2165,0.0614,8,3
+2026,LV,Brock Bowers,TE,targets,Ashton Jeanty,RB,0.1647,0.2215,0.0568,8,3
+2026,LV,Brock Bowers,TE,targets,Michael Mayer,TE,0.1339,0.1625,0.0286,8,3
 2026,LV,Jack Bech,WR,carries,Kirk Cousins,QB,0.0735,0.1765,0.103,5,1
 2026,LV,Jack Bech,WR,carries,Connor Heyward,TE,0.0334,0.0769,0.0435,3,1
-2026,LV,Jack Bech,WR,carries,Ashton Jeanty,RB,0.5139,0.5258,0.0118,6,4
-2026,LV,Jack Bech,WR,targets,Tre Tucker,WR,0.1454,0.1871,0.0417,6,4
+2026,LV,Jack Bech,WR,carries,Ashton Jeanty,RB,0.506,0.5258,0.0198,7,4
+2026,LV,Jack Bech,WR,targets,Tre Tucker,WR,0.1632,0.1871,0.0238,7,4
 2026,LV,Jack Bech,WR,targets,Cody White,WR,0.0593,0.0828,0.0235,4,4
 2026,LV,Jack Bech,WR,targets,Malik Benson,WR,0.0452,0.0667,0.0214,3,2
-2026,MIA,Malik Willis,QB,carries,Ollie Gordon II,RB,0.5586,0.7692,0.2106,7,1
-2026,MIA,Malik Willis,QB,targets,Ollie Gordon II,RB,0.0852,0.1515,0.0663,5,1
-2026,MIA,Malik Willis,QB,targets,Kevin Coleman Jr.,WR,0.1379,0.1818,0.0439,6,1
-2026,MIA,Malik Willis,QB,targets,Caleb Douglas,WR,0.2214,0.2424,0.021,5,1
+2026,MIA,Malik Willis,QB,carries,Ollie Gordon II,RB,0.5586,0.6596,0.101,7,2
+2026,MIA,Malik Willis,QB,carries,Jaylen Wright,RB,0.1366,0.1827,0.0461,6,2
+2026,MIA,Malik Willis,QB,carries,Malik Washington,WR,0.0564,0.1,0.0436,6,1
+2026,MIA,Malik Willis,QB,targets,Caleb Douglas,WR,0.2214,0.2727,0.0513,5,2
+2026,MIA,Malik Willis,QB,targets,Ollie Gordon II,RB,0.0852,0.1212,0.036,5,2
 2026,MIA,Malik Willis,QB,targets,Jaylen Wright,RB,0.0399,0.0606,0.0207,2,1
-2026,MIA,De'Von Achane,RB,carries,Ollie Gordon II,RB,0.3259,0.6713,0.3454,2,6
-2026,MIA,De'Von Achane,RB,carries,Jaylen Wright,RB,0.0623,0.1621,0.0998,2,5
-2026,MIA,De'Von Achane,RB,carries,Malik Washington,WR,0.0495,0.0599,0.0104,2,4
-2026,MIA,De'Von Achane,RB,targets,Kevin Coleman Jr.,WR,0.0942,0.1642,0.07,2,5
-2026,MIA,De'Von Achane,RB,targets,Greg Dulcich,TE,0.1348,0.1871,0.0522,3,5
-2026,MIA,De'Von Achane,RB,targets,Caleb Douglas,WR,0.1948,0.2399,0.0451,2,4
+2026,MIA,De'Von Achane,RB,carries,Ollie Gordon II,RB,0.3259,0.654,0.328,2,7
+2026,MIA,De'Von Achane,RB,carries,Jaylen Wright,RB,0.0623,0.1767,0.1145,2,6
+2026,MIA,De'Von Achane,RB,carries,Malik Washington,WR,0.0495,0.0679,0.0184,2,5
+2026,MIA,De'Von Achane,RB,targets,Caleb Douglas,WR,0.1948,0.2526,0.0577,2,5
+2026,MIA,De'Von Achane,RB,targets,Greg Dulcich,TE,0.1348,0.1912,0.0564,3,6
+2026,MIA,De'Von Achane,RB,targets,Kevin Coleman Jr.,WR,0.0942,0.1418,0.0477,2,6
 2026,MIA,De'Von Achane,RB,targets,Will Kacmarek,TE,0.0403,0.0764,0.0361,2,5
-2026,MIA,De'Von Achane,RB,targets,Chris Bell,WR,0.1059,0.13,0.0241,3,5
-2026,MIA,Jaylen Wright,RB,carries,Ollie Gordon II,RB,0.5615,0.6551,0.0936,6,2
+2026,MIA,De'Von Achane,RB,targets,Chris Bell,WR,0.1059,0.1285,0.0227,3,6
+2026,MIA,Jaylen Wright,RB,carries,Ollie Gordon II,RB,0.5599,0.6551,0.0953,7,2
 2026,MIA,Jaylen Wright,RB,carries,Malik Willis,QB,0.1577,0.1928,0.0351,6,2
-2026,MIA,Jaylen Wright,RB,targets,Caleb Douglas,WR,0.1937,0.381,0.1872,5,1
+2026,MIA,Jaylen Wright,RB,targets,Caleb Douglas,WR,0.2119,0.381,0.169,6,1
 2026,MIA,Jaylen Wright,RB,targets,Ryan Miller,WR,0.0435,0.0857,0.0422,1,1
-2026,MIA,Jaylen Wright,RB,targets,Greg Dulcich,TE,0.1582,0.1952,0.037,6,2
 2026,MIA,Jaylen Wright,RB,targets,Will Kacmarek,TE,0.0612,0.0952,0.0341,6,1
+2026,MIA,Jaylen Wright,RB,targets,Greg Dulcich,TE,0.1659,0.1952,0.0293,7,2
 2026,MIA,Jaylen Wright,RB,targets,Kaytron Allen,RB,0.0303,0.0476,0.0173,1,1
-2026,MIA,Caleb Douglas,WR,carries,Jaylen Wright,RB,0.0961,0.2271,0.131,5,2
+2026,MIA,Caleb Douglas,WR,carries,Jaylen Wright,RB,0.1218,0.2271,0.1053,6,2
 2026,MIA,Caleb Douglas,WR,carries,Malik Willis,QB,0.139,0.2122,0.0733,5,3
-2026,MIA,Caleb Douglas,WR,carries,Malik Washington,WR,0.0445,0.0683,0.0239,3,3
-2026,MIA,Caleb Douglas,WR,targets,Malik Washington,WR,0.1806,0.292,0.1114,6,3
-2026,MIA,Caleb Douglas,WR,targets,Kevin Coleman Jr.,WR,0.1001,0.2029,0.1029,4,3
-2026,MIA,Caleb Douglas,WR,targets,Greg Dulcich,TE,0.1529,0.2111,0.0582,6,2
-2026,MIA,Caleb Douglas,WR,targets,Chris Bell,WR,0.1034,0.1502,0.0468,5,3
+2026,MIA,Caleb Douglas,WR,carries,Malik Washington,WR,0.0583,0.0683,0.01,4,3
+2026,MIA,Caleb Douglas,WR,targets,Kevin Coleman Jr.,WR,0.0861,0.2029,0.1168,5,3
+2026,MIA,Caleb Douglas,WR,targets,Malik Washington,WR,0.1808,0.292,0.1112,7,3
+2026,MIA,Caleb Douglas,WR,targets,Greg Dulcich,TE,0.1614,0.2111,0.0497,7,2
+2026,MIA,Caleb Douglas,WR,targets,Chris Bell,WR,0.1064,0.1502,0.0438,6,3
 2026,MIA,Caleb Douglas,WR,targets,Ryan Miller,WR,0.0435,0.0857,0.0422,1,1
-2026,MIA,Chris Bell,WR,carries,Ollie Gordon II,RB,0.5586,0.7692,0.2106,7,1
-2026,MIA,Chris Bell,WR,targets,Ollie Gordon II,RB,0.0852,0.1515,0.0663,5,1
-2026,MIA,Chris Bell,WR,targets,Kevin Coleman Jr.,WR,0.1379,0.1818,0.0439,6,1
-2026,MIA,Chris Bell,WR,targets,Caleb Douglas,WR,0.2214,0.2424,0.021,5,1
+2026,MIA,Chris Bell,WR,carries,Ollie Gordon II,RB,0.5575,0.7692,0.2117,8,1
+2026,MIA,Chris Bell,WR,targets,Ollie Gordon II,RB,0.0862,0.1515,0.0653,6,1
+2026,MIA,Chris Bell,WR,targets,Kevin Coleman Jr.,WR,0.1225,0.1818,0.0593,7,1
 2026,MIA,Chris Bell,WR,targets,Jaylen Wright,RB,0.0399,0.0606,0.0207,2,1
+2026,MIA,Chris Bell,WR,targets,Jalen Tolbert,WR,0.0489,0.0606,0.0117,4,1
 2026,MIN,Kyler Murray,QB,carries,Carson Wentz,QB,0.0645,0.0952,0.0307,1,2
 2026,MIN,Kyler Murray,QB,carries,DeeJay Dallas,RB,0.0512,0.0714,0.0203,2,1
-2026,MIN,Kyler Murray,QB,carries,Jordan Mason,RB,0.5033,0.5167,0.0133,3,2
-2026,MIN,Kyler Murray,QB,targets,Justin Jefferson,WR,0.268,0.3719,0.1039,5,3
-2026,MIN,Kyler Murray,QB,targets,Tai Felton,WR,0.0639,0.1667,0.1028,4,1
-2026,MIN,Kyler Murray,QB,targets,Gavin Bartholomew,TE,0.093,0.1333,0.0404,3,1
-2026,MIN,Kyler Murray,QB,targets,T.J. Hockenson,TE,0.1963,0.2219,0.0257,6,2
+2026,MIN,Kyler Murray,QB,carries,Justin Jefferson,WR,0.0303,0.0476,0.0173,1,1
+2026,MIN,Kyler Murray,QB,carries,Jordan Mason,RB,0.5033,0.519,0.0157,3,3
+2026,MIN,Kyler Murray,QB,targets,Tai Felton,WR,0.0639,0.2229,0.159,4,2
+2026,MIN,Kyler Murray,QB,targets,Jauan Jennings,WR,0.0634,0.1395,0.0761,6,1
+2026,MIN,Kyler Murray,QB,targets,Justin Jefferson,WR,0.268,0.3313,0.0633,5,4
 2026,MIN,Kyler Murray,QB,targets,Demond Claiborne,RB,0.0345,0.0526,0.0181,1,1
-2026,MIN,T.J. Hockenson,TE,carries,Jordan Mason,RB,0.5025,0.5333,0.0308,4,1
-2026,MIN,T.J. Hockenson,TE,targets,Justin Jefferson,WR,0.2889,0.4333,0.1444,7,1
-2026,MIN,T.J. Hockenson,TE,targets,Tai Felton,WR,0.0639,0.1667,0.1028,4,1
-2026,MIN,T.J. Hockenson,TE,targets,Gavin Bartholomew,TE,0.093,0.1333,0.0404,3,1
-2026,MIN,T.J. Hockenson,TE,targets,Myles Price,WR,0.0961,0.1333,0.0372,4,1
+2026,MIN,T.J. Hockenson,TE,carries,Jordan Mason,RB,0.5068,0.5333,0.0266,5,1
+2026,MIN,T.J. Hockenson,TE,carries,Kirk Cousins,QB,0.0476,0.0667,0.019,1,1
+2026,MIN,T.J. Hockenson,TE,targets,Justin Jefferson,WR,0.279,0.4333,0.1544,8,1
+2026,MIN,T.J. Hockenson,TE,targets,Tai Felton,WR,0.1069,0.1667,0.0598,5,1
+2026,MIN,T.J. Hockenson,TE,targets,Myles Price,WR,0.0862,0.1333,0.0471,5,1
+2026,MIN,T.J. Hockenson,TE,targets,Gavin Bartholomew,TE,0.0872,0.1333,0.0462,4,1
 2026,MIN,Josh Oliver,TE,carries,Kyler Murray,QB,0.0757,0.1517,0.076,2,4
-2026,MIN,Josh Oliver,TE,carries,Jordan Mason,RB,0.4839,0.5149,0.031,1,4
-2026,MIN,Josh Oliver,TE,targets,Myles Price,WR,0.0526,0.1163,0.0637,1,4
-2026,MIN,Josh Oliver,TE,targets,Justin Jefferson,WR,0.2708,0.3287,0.0579,3,5
-2026,MIN,Josh Oliver,TE,targets,T.J. Hockenson,TE,0.193,0.2085,0.0155,3,5
-2026,MIN,Justin Jefferson,WR,carries,Aaron Jones,RB,0.5099,0.7143,0.2044,8,1
-2026,MIN,Justin Jefferson,WR,targets,T.J. Hockenson,TE,0.1753,0.3939,0.2186,7,1
-2026,MIN,Justin Jefferson,WR,targets,Aaron Jones,RB,0.0803,0.2424,0.1621,7,1
-2026,MIN,Jordan Mason,RB,carries,Aaron Jones,RB,0.3522,0.7581,0.4059,5,4
+2026,MIN,Josh Oliver,TE,carries,Jordan Mason,RB,0.4839,0.5167,0.0328,1,5
+2026,MIN,Josh Oliver,TE,targets,Myles Price,WR,0.0526,0.1023,0.0497,1,5
+2026,MIN,Josh Oliver,TE,targets,Tai Felton,WR,0.08,0.1242,0.0442,1,5
+2026,MIN,Josh Oliver,TE,targets,Justin Jefferson,WR,0.2708,0.3088,0.038,3,6
+2026,MIN,Josh Oliver,TE,targets,Jauan Jennings,WR,0.0608,0.0797,0.0188,2,5
+2026,MIN,Justin Jefferson,WR,carries,Aaron Jones,RB,0.4955,0.7143,0.2187,9,1
+2026,MIN,Justin Jefferson,WR,targets,T.J. Hockenson,TE,0.1738,0.3939,0.2202,8,1
+2026,MIN,Justin Jefferson,WR,targets,Aaron Jones,RB,0.0732,0.2424,0.1692,8,1
+2026,MIN,Jordan Mason,RB,carries,Aaron Jones,RB,0.357,0.7581,0.4011,6,4
 2026,MIN,Jordan Mason,RB,carries,Carson Wentz,QB,0.0739,0.1071,0.0332,2,1
 2026,MIN,Jordan Mason,RB,carries,Kyler Murray,QB,0.1174,0.1354,0.018,3,3
-2026,MIN,Jordan Mason,RB,targets,Aaron Jones,RB,0.0438,0.1953,0.1515,5,3
+2026,MIN,Jordan Mason,RB,targets,Aaron Jones,RB,0.0404,0.1953,0.1549,6,3
 2026,MIN,Jordan Mason,RB,targets,Jordan Addison,WR,0.1547,0.2683,0.1137,4,3
-2026,MIN,Jordan Mason,RB,targets,Gavin Bartholomew,TE,0.0875,0.1186,0.0311,2,2
+2026,MIN,Jordan Mason,RB,targets,Gavin Bartholomew,TE,0.0816,0.1186,0.037,3,2
+2026,MIN,Jordan Mason,RB,targets,Jeshaun Jones,WR,0.0233,0.0345,0.0112,1,1
 2026,MIN,Jordan Addison,WR,carries,Kyler Murray,QB,0.1092,0.2121,0.1029,5,1
-2026,MIN,Jordan Addison,WR,carries,Aaron Jones,RB,0.5241,0.5621,0.038,7,2
-2026,MIN,Jordan Addison,WR,carries,Jordan Mason,RB,0.5025,0.5333,0.0308,4,1
-2026,MIN,Jordan Addison,WR,targets,Gavin Bartholomew,TE,0.036,0.1701,0.1341,2,2
-2026,MIN,Jordan Addison,WR,targets,Tai Felton,WR,0.0507,0.1351,0.0844,3,2
-2026,MIN,Jordan Addison,WR,targets,Myles Price,WR,0.0822,0.1356,0.0534,3,2
-2026,MIN,Jordan Addison,WR,targets,Justin Jefferson,WR,0.2969,0.3374,0.0405,6,2
-2026,MIN,Demond Claiborne,RB,targets,Justin Jefferson,WR,0.2124,0.3637,0.1513,3,5
+2026,MIN,Jordan Addison,WR,carries,Jordan Mason,RB,0.5025,0.5286,0.0261,4,2
+2026,MIN,Jordan Addison,WR,targets,Tai Felton,WR,0.0507,0.1831,0.1324,3,3
+2026,MIN,Jordan Addison,WR,targets,Gavin Bartholomew,TE,0.036,0.1367,0.1007,2,3
+2026,MIN,Jordan Addison,WR,targets,Myles Price,WR,0.0822,0.1059,0.0237,3,3
+2026,MIN,Jordan Addison,WR,targets,Jauan Jennings,WR,0.0692,0.087,0.0178,5,2
+2026,MIN,Demond Claiborne,RB,carries,Justin Jefferson,WR,0.0303,0.0476,0.0173,1,1
+2026,MIN,Demond Claiborne,RB,targets,Justin Jefferson,WR,0.2124,0.338,0.1256,3,6
 2026,MIN,Demond Claiborne,RB,targets,Josh Oliver,TE,0.0526,0.1667,0.114,1,1
-2026,MIN,Demond Claiborne,RB,targets,Myles Price,WR,0.0837,0.1333,0.0496,3,2
-2026,MIN,Demond Claiborne,RB,targets,Tai Felton,WR,0.0713,0.1042,0.0329,3,2
-2026,MIN,Demond Claiborne,RB,targets,Jauan Jennings,WR,0.0483,0.0785,0.0303,3,3
+2026,MIN,Demond Claiborne,RB,targets,Tai Felton,WR,0.0713,0.1625,0.0912,3,3
+2026,MIN,Demond Claiborne,RB,targets,Jauan Jennings,WR,0.0483,0.0938,0.0455,3,4
+2026,MIN,Demond Claiborne,RB,targets,Myles Price,WR,0.0837,0.1044,0.0207,3,3
 2026,NE,Mack Hollins,WR,carries,Rhamondre Stevenson,RB,0.3559,0.4482,0.0924,6,4
 2026,NE,Mack Hollins,WR,carries,Drake Maye,QB,0.1248,0.1538,0.0291,6,4
 2026,NE,Mack Hollins,WR,targets,A.J. Brown,WR,0.1799,0.2667,0.0868,2,2
@@ -1945,119 +1976,133 @@ season,team,out_player,out_pos,metric,beneficiary,benef_pos,share_with,share_wit
 2026,NE,Eli Raridon,TE,carries,Drake Maye,QB,0.1344,0.1538,0.0194,9,1
 2026,NE,Eli Raridon,TE,targets,Mack Hollins,WR,0.1515,0.3,0.1485,5,1
 2026,NE,Eli Raridon,TE,targets,Kyle Williams,WR,0.0606,0.1,0.0394,8,1
-2026,NO,Alvin Kamara,RB,targets,Noah Fant,TE,0.0534,0.1509,0.0975,6,1
-2026,NO,Alvin Kamara,RB,targets,Travis Etienne,RB,0.088,0.1698,0.0818,3,1
-2026,NO,Alvin Kamara,RB,targets,Bryce Lance,WR,0.0793,0.0943,0.0151,7,1
+2026,NO,Alvin Kamara,RB,targets,Travis Etienne,RB,0.0724,0.1698,0.0974,4,1
+2026,NO,Alvin Kamara,RB,targets,Noah Fant,TE,0.0641,0.1509,0.0869,7,1
+2026,NO,Alvin Kamara,RB,targets,Bryce Lance,WR,0.0726,0.0943,0.0218,8,1
+2026,NO,Alvin Kamara,RB,targets,Juwan Johnson,TE,0.1142,0.1321,0.0178,9,1
 2026,NO,Travis Etienne,RB,carries,Kendre Miller,RB,0.2514,0.4788,0.2274,2,4
 2026,NO,Travis Etienne,RB,carries,Audric Estimé,RB,0.3043,0.4839,0.1795,1,1
-2026,NO,Travis Etienne,RB,carries,CJ Donaldson,RB,0.0509,0.1851,0.1342,3,3
-2026,NO,Travis Etienne,RB,carries,Barion Brown,WR,0.04,0.0526,0.0126,1,1
-2026,NO,Travis Etienne,RB,targets,Devaughn Vele,WR,0.1498,0.1796,0.0298,4,5
-2026,NO,Travis Etienne,RB,targets,Chris Olave,WR,0.251,0.2754,0.0244,4,5
-2026,NO,Travis Etienne,RB,targets,Alvin Kamara,RB,0.1112,0.135,0.0237,3,5
-2026,NO,Travis Etienne,RB,targets,Bryce Lance,WR,0.0669,0.0897,0.0229,3,5
-2026,NO,Travis Etienne,RB,targets,Oscar Delp,TE,0.0312,0.0465,0.0152,1,2
+2026,NO,Travis Etienne,RB,carries,CJ Donaldson,RB,0.0496,0.1851,0.1356,4,3
+2026,NO,Travis Etienne,RB,carries,Alvin Kamara,RB,0.1968,0.2561,0.0593,4,5
+2026,NO,Travis Etienne,RB,targets,Alvin Kamara,RB,0.0962,0.135,0.0387,4,5
+2026,NO,Travis Etienne,RB,targets,Bryce Lance,WR,0.0566,0.0897,0.0332,4,5
+2026,NO,Travis Etienne,RB,targets,Devaughn Vele,WR,0.1557,0.1796,0.0239,5,5
+2026,NO,Travis Etienne,RB,targets,Oscar Delp,TE,0.0284,0.0465,0.018,2,2
+2026,NO,Travis Etienne,RB,targets,Kendre Miller,RB,0.075,0.0874,0.0124,1,3
 2026,NO,Kendre Miller,RB,carries,Tyler Shough,QB,0.1171,0.2963,0.1792,5,1
 2026,NO,Kendre Miller,RB,carries,Alvin Kamara,RB,0.2817,0.3333,0.0516,5,1
 2026,NO,Kendre Miller,RB,targets,Alvin Kamara,RB,0.115,0.1875,0.0725,5,1
 2026,NO,Kendre Miller,RB,targets,Chris Olave,WR,0.262,0.3125,0.0505,6,1
 2026,NO,Kendre Miller,RB,targets,Devaughn Vele,WR,0.1821,0.2188,0.0366,6,1
-2026,NO,Audric Estimé,RB,carries,Alvin Kamara,RB,0.1403,0.3333,0.1931,2,1
-2026,NO,Audric Estimé,RB,targets,Noah Fant,TE,0.0464,0.1509,0.1045,2,1
-2026,NO,Audric Estimé,RB,targets,Devaughn Vele,WR,0.0928,0.1943,0.1015,2,2
-2026,NO,Audric Estimé,RB,targets,Alvin Kamara,RB,0.1231,0.1875,0.0644,2,1
-2026,NO,Audric Estimé,RB,targets,Juwan Johnson,TE,0.0767,0.1285,0.0518,2,2
-2026,NO,Audric Estimé,RB,targets,Bryce Lance,WR,0.0312,0.0628,0.0315,1,2
-2026,NO,Jordyn Tyson,WR,carries,Alvin Kamara,RB,0.1403,0.2903,0.15,2,6
-2026,NO,Jordyn Tyson,WR,carries,Travis Etienne,RB,0.3478,0.3859,0.038,1,3
-2026,NO,Jordyn Tyson,WR,targets,Devaughn Vele,WR,0.0928,0.1874,0.0946,2,7
-2026,NO,Jordyn Tyson,WR,targets,Juwan Johnson,TE,0.0767,0.1402,0.0635,2,7
-2026,NO,Jordyn Tyson,WR,targets,Bryce Lance,WR,0.0312,0.0883,0.057,1,7
-2026,NO,Jordyn Tyson,WR,targets,Noah Fant,TE,0.0464,0.0757,0.0293,2,5
+2026,NO,Audric Estimé,RB,carries,Travis Etienne,RB,0.3478,0.4432,0.0954,1,3
+2026,NO,Audric Estimé,RB,carries,Alvin Kamara,RB,0.1403,0.1894,0.0491,2,2
+2026,NO,Audric Estimé,RB,targets,Devaughn Vele,WR,0.0928,0.1893,0.0965,2,3
+2026,NO,Audric Estimé,RB,targets,Noah Fant,TE,0.0464,0.1396,0.0932,2,2
+2026,NO,Audric Estimé,RB,targets,Chris Olave,WR,0.2481,0.3141,0.066,2,3
+2026,NO,Audric Estimé,RB,targets,Bryce Lance,WR,0.0312,0.0504,0.0192,1,3
+2026,NO,Audric Estimé,RB,targets,Juwan Johnson,TE,0.0767,0.0942,0.0175,2,3
+2026,NO,Jordyn Tyson,WR,carries,Alvin Kamara,RB,0.1087,0.2903,0.1816,3,6
+2026,NO,Jordyn Tyson,WR,carries,CJ Donaldson,RB,0.0455,0.118,0.0726,1,6
+2026,NO,Jordyn Tyson,WR,targets,Juwan Johnson,TE,0.0597,0.1402,0.0805,3,7
+2026,NO,Jordyn Tyson,WR,targets,Devaughn Vele,WR,0.1217,0.1874,0.0657,3,7
+2026,NO,Jordyn Tyson,WR,targets,Bryce Lance,WR,0.0284,0.0883,0.0598,2,7
+2026,NO,Jordyn Tyson,WR,targets,Alvin Kamara,RB,0.0992,0.1271,0.0279,3,6
 2026,NO,Jordyn Tyson,WR,targets,Barion Brown,WR,0.0312,0.0561,0.0249,1,2
-2026,NO,CJ Donaldson,RB,carries,Tyler Shough,QB,0.147,0.2756,0.1286,6,2
-2026,NO,CJ Donaldson,RB,targets,Travis Etienne,RB,0.0941,0.1515,0.0574,3,1
+2026,NO,CJ Donaldson,RB,carries,Tyler Shough,QB,0.1455,0.2756,0.1301,7,2
+2026,NO,CJ Donaldson,RB,targets,Jordyn Tyson,WR,0.0513,0.2751,0.2238,1,2
+2026,NO,CJ Donaldson,RB,targets,Travis Etienne,RB,0.077,0.1515,0.0745,4,1
 2026,NYG,Devin Singletary,RB,carries,Najee Harris,RB,0.2005,0.2704,0.0699,2,3
-2026,NYG,Devin Singletary,RB,targets,Isaiah Likely,TE,0.2582,0.296,0.0379,6,3
+2026,NYG,Devin Singletary,RB,targets,Isaiah Likely,TE,0.2326,0.296,0.0635,7,3
 2026,NYG,Devin Singletary,RB,targets,Patrick Ricard,RB,0.0345,0.0667,0.0322,1,1
-2026,NYG,Devin Singletary,RB,targets,Malik Nabers,WR,0.2711,0.3012,0.0302,6,3
-2026,NYG,Devin Singletary,RB,targets,Darnell Mooney,WR,0.1022,0.1147,0.0125,6,3
+2026,NYG,Devin Singletary,RB,targets,Malik Nabers,WR,0.2775,0.3012,0.0238,7,3
 2026,NYG,Najee Harris,RB,targets,Devin Singletary,RB,0.0267,0.1379,0.1112,2,1
 2026,NYG,Najee Harris,RB,targets,Malik Nabers,WR,0.2768,0.3103,0.0335,5,1
 2026,NYG,Najee Harris,RB,targets,Malachi Fields,WR,0.1198,0.1379,0.0181,5,1
-2026,NYG,Tyrone Tracy Jr.,RB,carries,Devin Singletary,RB,0.1692,0.3692,0.2,4,2
-2026,NYG,Tyrone Tracy Jr.,RB,carries,Cam Skattebo,RB,0.5547,0.6923,0.1376,6,1
-2026,NYG,Tyrone Tracy Jr.,RB,carries,J.J. McCarthy,QB,0.0696,0.1462,0.0766,3,2
-2026,NYG,Tyrone Tracy Jr.,RB,targets,Darnell Mooney,WR,0.0946,0.1476,0.053,7,2
-2026,NYG,Tyrone Tracy Jr.,RB,targets,Devin Singletary,RB,0.0756,0.1111,0.0355,4,1
-2026,NYG,Tyrone Tracy Jr.,RB,targets,Cam Skattebo,RB,0.0887,0.1176,0.0289,5,1
-2026,NYG,Tyrone Tracy Jr.,RB,targets,Theo Johnson,TE,0.0626,0.0882,0.0256,4,1
-2026,NYG,Tyrone Tracy Jr.,RB,targets,Malachi Fields,WR,0.1317,0.1514,0.0197,7,2
-2026,NYG,Cam Skattebo,RB,carries,Devin Singletary,RB,0.1431,0.7,0.5569,5,1
-2026,NYG,Cam Skattebo,RB,targets,Malachi Fields,WR,0.13,0.1852,0.0552,8,1
-2026,NYG,Cam Skattebo,RB,targets,Darnell Mooney,WR,0.1012,0.1481,0.047,8,1
-2026,NYG,Cam Skattebo,RB,targets,Devin Singletary,RB,0.0756,0.1111,0.0355,4,1
-2026,NYG,Cam Skattebo,RB,targets,Malik Nabers,WR,0.2792,0.2963,0.0171,8,1
+2026,NYG,Tyrone Tracy Jr.,RB,carries,Cam Skattebo,RB,0.5547,0.6643,0.1097,6,2
+2026,NYG,Tyrone Tracy Jr.,RB,carries,Devin Singletary,RB,0.1692,0.2613,0.0921,4,3
+2026,NYG,Tyrone Tracy Jr.,RB,carries,J.J. McCarthy,QB,0.0696,0.158,0.0885,3,3
+2026,NYG,Tyrone Tracy Jr.,RB,targets,Cam Skattebo,RB,0.0887,0.1509,0.0622,5,2
+2026,NYG,Tyrone Tracy Jr.,RB,targets,Darnell Mooney,WR,0.0946,0.1423,0.0476,7,3
+2026,NYG,Tyrone Tracy Jr.,RB,targets,Malachi Fields,WR,0.1317,0.1448,0.0131,7,3
+2026,NYG,Cam Skattebo,RB,carries,Devin Singletary,RB,0.1268,0.7,0.5732,6,1
+2026,NYG,Cam Skattebo,RB,targets,Malachi Fields,WR,0.1301,0.1852,0.055,9,1
+2026,NYG,Cam Skattebo,RB,targets,Devin Singletary,RB,0.0658,0.1111,0.0453,5,1
+2026,NYG,Cam Skattebo,RB,targets,Darnell Mooney,WR,0.1046,0.1481,0.0436,9,1
+2026,NYG,Cam Skattebo,RB,targets,Malik Nabers,WR,0.2833,0.2963,0.013,9,1
+2026,NYG,Gregory Desrosiers,RB,carries,Jameis Winston,QB,0.0718,0.1364,0.0646,2,1
+2026,NYG,Gregory Desrosiers,RB,carries,J.J. McCarthy,QB,0.1462,0.1818,0.0357,2,1
+2026,NYG,Gregory Desrosiers,RB,targets,Cam Skattebo,RB,0.1176,0.1842,0.0666,1,1
+2026,NYG,Gregory Desrosiers,RB,targets,Malik Nabers,WR,0.2511,0.3158,0.0647,2,1
+2026,NYG,Gregory Desrosiers,RB,targets,Jalin Hyatt,WR,0.037,0.0526,0.0156,1,1
 2026,NYJ,Tim Patrick,WR,carries,Isaiah Davis,RB,0.1286,0.1852,0.0566,3,1
-2026,NYJ,Tim Patrick,WR,carries,Geno Smith,QB,0.0628,0.0902,0.0273,3,5
-2026,NYJ,Tim Patrick,WR,targets,Adonai Mitchell,WR,0.1,0.2375,0.1375,1,5
-2026,NYJ,Tim Patrick,WR,targets,Garrett Wilson,WR,0.2287,0.3118,0.0831,3,6
-2026,NYJ,Tim Patrick,WR,targets,Kenyon Sadiq,TE,0.0801,0.1341,0.054,3,7
+2026,NYJ,Tim Patrick,WR,carries,Breece Hall,RB,0.5405,0.5932,0.0527,1,5
+2026,NYJ,Tim Patrick,WR,carries,Geno Smith,QB,0.0539,0.0902,0.0363,4,5
+2026,NYJ,Tim Patrick,WR,targets,Adonai Mitchell,WR,0.125,0.2375,0.1125,2,5
+2026,NYJ,Tim Patrick,WR,targets,Garrett Wilson,WR,0.2341,0.3118,0.0778,4,6
 2026,NYJ,Tim Patrick,WR,targets,Isaiah Williams,WR,0.069,0.1117,0.0427,1,6
+2026,NYJ,Tim Patrick,WR,targets,Kenyon Sadiq,TE,0.0976,0.1341,0.0366,4,7
 2026,NYJ,Tim Patrick,WR,targets,Jelani Woods,TE,0.0341,0.0465,0.0124,3,2
+2026,NYJ,Garrett Wilson,WR,carries,Breece Hall,RB,0.5813,0.6,0.0187,5,1
 2026,NYJ,Garrett Wilson,WR,targets,Omar Cooper Jr.,WR,0.1505,0.3667,0.2162,3,1
-2026,NYJ,Garrett Wilson,WR,targets,Breece Hall,RB,0.1012,0.1333,0.0321,4,1
-2026,NYJ,Garrett Wilson,WR,targets,Adonai Mitchell,WR,0.2108,0.2333,0.0225,5,1
-2026,NYJ,Garrett Wilson,WR,targets,Kenyon Sadiq,TE,0.1162,0.1333,0.0171,9,1
-2026,NYJ,Breece Hall,RB,carries,Braelon Allen,RB,0.2683,0.8163,0.5481,5,5
-2026,NYJ,Breece Hall,RB,targets,Braelon Allen,RB,0.0484,0.1276,0.0792,5,5
-2026,NYJ,Breece Hall,RB,targets,Mason Taylor,TE,0.099,0.1762,0.0772,3,4
+2026,NYJ,Garrett Wilson,WR,targets,Adonai Mitchell,WR,0.2007,0.2333,0.0327,6,1
+2026,NYJ,Garrett Wilson,WR,targets,Breece Hall,RB,0.111,0.1333,0.0224,5,1
+2026,NYJ,Garrett Wilson,WR,targets,Kenyon Sadiq,TE,0.1196,0.1333,0.0138,10,1
+2026,NYJ,Breece Hall,RB,carries,Braelon Allen,RB,0.2956,0.8163,0.5207,6,5
+2026,NYJ,Breece Hall,RB,targets,Braelon Allen,RB,0.0486,0.1276,0.079,6,5
+2026,NYJ,Breece Hall,RB,targets,Mason Taylor,TE,0.0993,0.1762,0.077,4,4
+2026,NYJ,Breece Hall,RB,targets,Tim Patrick,WR,0.05,0.1034,0.0534,1,2
 2026,NYJ,Breece Hall,RB,targets,Jelani Woods,TE,0.0263,0.0422,0.0159,1,4
-2026,NYJ,Breece Hall,RB,targets,Sterling Shepard,WR,0.0526,0.0667,0.014,1,1
-2026,NYJ,Adonai Mitchell,WR,carries,Braelon Allen,RB,0.4598,0.6661,0.2063,6,4
-2026,NYJ,Adonai Mitchell,WR,carries,Breece Hall,RB,0.5705,0.6842,0.1137,4,1
+2026,NYJ,Isaiah Williams,WR,targets,Breece Hall,RB,0.1076,0.15,0.0424,5,1
+2026,NYJ,Isaiah Williams,WR,targets,Sterling Shepard,WR,0.0596,0.1,0.0404,2,1
+2026,NYJ,Isaiah Williams,WR,targets,Kenyon Sadiq,TE,0.1179,0.15,0.0321,10,1
+2026,NYJ,Adonai Mitchell,WR,carries,Braelon Allen,RB,0.4559,0.6661,0.2102,7,4
+2026,NYJ,Adonai Mitchell,WR,carries,Breece Hall,RB,0.5645,0.6842,0.1197,5,1
 2026,NYJ,Adonai Mitchell,WR,carries,Isaiah Davis,RB,0.1176,0.1679,0.0504,2,2
-2026,NYJ,Adonai Mitchell,WR,targets,Kenyon Sadiq,TE,0.0825,0.171,0.0885,6,4
+2026,NYJ,Adonai Mitchell,WR,carries,Geno Smith,QB,0.0704,0.0812,0.0108,6,3
 2026,NYJ,Adonai Mitchell,WR,targets,Jeremy Ruckert,TE,0.0495,0.1316,0.0821,2,1
+2026,NYJ,Adonai Mitchell,WR,targets,Kenyon Sadiq,TE,0.0921,0.171,0.0789,7,4
+2026,NYJ,Adonai Mitchell,WR,targets,Tim Patrick,WR,0.05,0.1034,0.0534,1,2
 2026,NYJ,Adonai Mitchell,WR,targets,Omar Cooper Jr.,WR,0.1923,0.2414,0.0491,3,1
-2026,NYJ,Adonai Mitchell,WR,targets,Garrett Wilson,WR,0.2672,0.3053,0.0381,5,4
-2026,NYJ,Adonai Mitchell,WR,targets,Braelon Allen,RB,0.0768,0.1048,0.028,6,4
-2026,NYJ,Mason Taylor,TE,carries,Breece Hall,RB,0.5705,0.6842,0.1137,4,1
-2026,NYJ,Mason Taylor,TE,carries,Braelon Allen,RB,0.5266,0.6053,0.0787,8,2
-2026,NYJ,Mason Taylor,TE,carries,Geno Smith,QB,0.0763,0.1053,0.029,7,1
-2026,NYJ,Mason Taylor,TE,targets,Kenyon Sadiq,TE,0.0877,0.2386,0.1509,8,2
+2026,NYJ,Adonai Mitchell,WR,targets,Garrett Wilson,WR,0.2643,0.3053,0.041,6,4
+2026,NYJ,Mason Taylor,TE,carries,Breece Hall,RB,0.5645,0.6842,0.1197,5,1
+2026,NYJ,Mason Taylor,TE,carries,Braelon Allen,RB,0.5161,0.6053,0.0892,9,2
+2026,NYJ,Mason Taylor,TE,carries,Geno Smith,QB,0.0701,0.1053,0.0351,8,1
+2026,NYJ,Mason Taylor,TE,targets,Kenyon Sadiq,TE,0.0946,0.2386,0.1439,9,2
 2026,NYJ,Mason Taylor,TE,targets,Jeremy Ruckert,TE,0.0495,0.1316,0.0821,2,1
-2026,NYJ,Mason Taylor,TE,targets,Garrett Wilson,WR,0.2746,0.3175,0.043,7,2
+2026,NYJ,Mason Taylor,TE,targets,Garrett Wilson,WR,0.2715,0.3175,0.046,8,2
 2026,NYJ,Mason Taylor,TE,targets,Isaiah Williams,WR,0.0973,0.1263,0.029,5,2
-2026,NYJ,Mason Taylor,TE,targets,Braelon Allen,RB,0.0835,0.1061,0.0227,8,2
-2026,NYJ,Omar Cooper Jr.,WR,carries,Geno Smith,QB,0.0498,0.1301,0.0804,5,3
-2026,NYJ,Omar Cooper Jr.,WR,carries,Breece Hall,RB,0.5631,0.6384,0.0753,3,2
-2026,NYJ,Omar Cooper Jr.,WR,carries,Braelon Allen,RB,0.5379,0.5489,0.0111,6,4
-2026,NYJ,Omar Cooper Jr.,WR,targets,Adonai Mitchell,WR,0.1908,0.3333,0.1425,5,1
-2026,NYJ,Omar Cooper Jr.,WR,targets,Kenyon Sadiq,TE,0.0858,0.166,0.0801,6,4
+2026,NYJ,Mason Taylor,TE,targets,Braelon Allen,RB,0.0797,0.1061,0.0264,9,2
+2026,NYJ,Omar Cooper Jr.,WR,carries,Geno Smith,QB,0.0498,0.1044,0.0546,5,4
+2026,NYJ,Omar Cooper Jr.,WR,carries,Breece Hall,RB,0.5631,0.6058,0.0427,3,3
+2026,NYJ,Omar Cooper Jr.,WR,targets,Kenyon Sadiq,TE,0.0858,0.1628,0.077,6,5
+2026,NYJ,Omar Cooper Jr.,WR,targets,Adonai Mitchell,WR,0.1908,0.2417,0.0508,5,2
 2026,NYJ,Omar Cooper Jr.,WR,targets,Jeremy Ruckert,TE,0.0435,0.0936,0.0501,1,2
 2026,NYJ,Omar Cooper Jr.,WR,targets,Isaiah Williams,WR,0.0836,0.1221,0.0385,3,4
-2026,NYJ,Omar Cooper Jr.,WR,targets,Garrett Wilson,WR,0.2697,0.3022,0.0325,5,4
+2026,NYJ,Omar Cooper Jr.,WR,targets,Garrett Wilson,WR,0.2697,0.2918,0.0221,5,5
 2026,PHI,Dallas Goedert,TE,carries,Tank Bigsby,RB,0.2249,0.5185,0.2937,2,1
 2026,PHI,Dallas Goedert,TE,carries,Jalen Hurts,QB,0.1616,0.1979,0.0363,3,2
-2026,PHI,Dallas Goedert,TE,carries,Saquon Barkley,RB,0.4011,0.4318,0.0307,5,2
-2026,PHI,Dallas Goedert,TE,carries,Will Shipley,RB,0.1945,0.2222,0.0277,3,1
-2026,PHI,Dallas Goedert,TE,targets,Darius Cooper,WR,0.1226,0.28,0.1574,6,1
+2026,PHI,Dallas Goedert,TE,carries,Will Shipley,RB,0.1875,0.2222,0.0347,4,1
+2026,PHI,Dallas Goedert,TE,targets,Darius Cooper,WR,0.1391,0.28,0.1409,7,1
 2026,PHI,Dallas Goedert,TE,targets,Zach Ertz,TE,0.0541,0.12,0.0659,1,2
 2026,PHI,Dallas Goedert,TE,targets,Dontayvion Wicks,WR,0.1664,0.2,0.0336,4,2
+2026,PHI,Dallas Goedert,TE,targets,Makai Lemon,WR,0.1845,0.2,0.0155,8,2
 2026,PHI,Saquon Barkley,RB,carries,Dameon Pierce,RB,0.56,0.7671,0.2071,1,2
-2026,PHI,Saquon Barkley,RB,carries,Will Shipley,RB,0.176,0.2778,0.1018,3,1
+2026,PHI,Saquon Barkley,RB,carries,Will Shipley,RB,0.1736,0.2778,0.1041,4,1
 2026,PHI,Saquon Barkley,RB,targets,Dameon Pierce,RB,0.0303,0.1244,0.0941,1,2
-2026,PHI,Saquon Barkley,RB,targets,Dallas Goedert,TE,0.161,0.2125,0.0515,5,2
+2026,PHI,Saquon Barkley,RB,targets,Dallas Goedert,TE,0.1421,0.2125,0.0704,6,2
 2026,PHI,Jalen Hurts,QB,carries,Dameon Pierce,RB,0.6111,0.7415,0.1304,1,2
-2026,PHI,Jalen Hurts,QB,targets,Makai Lemon,WR,0.1601,0.2332,0.0731,5,4
+2026,PHI,Jalen Hurts,QB,carries,Saquon Barkley,RB,0.4102,0.4842,0.074,4,4
+2026,PHI,Jalen Hurts,QB,targets,DeVonta Smith,WR,0.325,0.4448,0.1198,3,2
+2026,PHI,Jalen Hurts,QB,targets,Makai Lemon,WR,0.1601,0.2151,0.055,5,5
+2026,PHI,Jalen Hurts,QB,targets,Darius Cooper,WR,0.1498,0.1609,0.0111,3,5
 2026,PHI,DeVonta Smith,WR,carries,Tank Bigsby,RB,0.2249,0.5185,0.2937,2,1
-2026,PHI,DeVonta Smith,WR,carries,Will Shipley,RB,0.1529,0.25,0.0971,2,2
+2026,PHI,DeVonta Smith,WR,carries,Joe Milton III,QB,0.125,0.3846,0.2596,1,1
+2026,PHI,DeVonta Smith,WR,carries,Will Shipley,RB,0.1575,0.25,0.0925,3,2
 2026,PHI,DeVonta Smith,WR,carries,Tanner McKee,QB,0.0769,0.089,0.012,1,2
-2026,PHI,DeVonta Smith,WR,targets,Makai Lemon,WR,0.1269,0.2451,0.1182,4,5
-2026,PHI,DeVonta Smith,WR,targets,Darius Cooper,WR,0.0668,0.1764,0.1095,2,5
+2026,PHI,DeVonta Smith,WR,targets,Makai Lemon,WR,0.1301,0.2451,0.115,5,5
+2026,PHI,DeVonta Smith,WR,targets,Dallas Goedert,TE,0.1289,0.1905,0.0617,4,4
+2026,PHI,DeVonta Smith,WR,targets,Darius Cooper,WR,0.1239,0.1764,0.0525,3,5
 2026,PHI,DeVonta Smith,WR,targets,Dontayvion Wicks,WR,0.1623,0.2081,0.0458,4,2
-2026,PHI,DeVonta Smith,WR,targets,Dallas Goedert,TE,0.156,0.1905,0.0346,3,4
 2026,PHI,DeVonta Smith,WR,targets,Zach Ertz,TE,0.08,0.107,0.027,1,2
 2026,PHI,Dameon Pierce,RB,carries,Elijah Mitchell,RB,0.12,0.3793,0.2593,1,1
 2026,PHI,Dameon Pierce,RB,carries,Saquon Barkley,RB,0.28,0.4483,0.1683,1,1
@@ -2066,38 +2111,44 @@ season,team,out_player,out_pos,metric,beneficiary,benef_pos,share_with,share_wit
 2026,PHI,Dameon Pierce,RB,targets,Makai Lemon,WR,0.1893,0.2812,0.0919,3,1
 2026,PHI,Dameon Pierce,RB,targets,Elijah Mitchell,RB,0.1212,0.1875,0.0663,1,1
 2026,PHI,Dameon Pierce,RB,targets,Eli Stowers,TE,0.0303,0.0938,0.0634,1,1
+2026,PHI,Dontayvion Wicks,WR,carries,Saquon Barkley,RB,0.4102,0.4842,0.074,4,4
 2026,PHI,Dontayvion Wicks,WR,carries,Tanner McKee,QB,0.0769,0.089,0.012,1,2
-2026,PHI,Dontayvion Wicks,WR,targets,Makai Lemon,WR,0.1561,0.2655,0.1093,6,3
-2026,PHI,Dontayvion Wicks,WR,targets,Darius Cooper,WR,0.1237,0.1736,0.0499,4,3
+2026,PHI,Dontayvion Wicks,WR,targets,DeVonta Smith,WR,0.3233,0.5714,0.2481,4,1
+2026,PHI,Dontayvion Wicks,WR,targets,Makai Lemon,WR,0.1561,0.2348,0.0787,6,4
+2026,PHI,Dontayvion Wicks,WR,targets,Darius Cooper,WR,0.1237,0.1897,0.066,4,4
 2026,PHI,Dontayvion Wicks,WR,targets,Elijah Moore,WR,0.0455,0.0606,0.0152,1,2
-2026,PHI,Tanner McKee,QB,carries,Saquon Barkley,RB,0.3256,0.5222,0.1966,4,3
+2026,PHI,Tanner McKee,QB,carries,Saquon Barkley,RB,0.4021,0.5222,0.1201,5,3
 2026,PHI,Tanner McKee,QB,carries,Jalen Hurts,QB,0.1481,0.1947,0.0466,2,3
 2026,PHI,Tanner McKee,QB,targets,Johnny Mundt,TE,0.0249,0.0641,0.0392,2,2
 2026,PHI,Tanner McKee,QB,targets,Saquon Barkley,RB,0.0405,0.0766,0.036,4,3
 2026,PHI,Tanner McKee,QB,targets,Dontayvion Wicks,WR,0.169,0.1861,0.0171,3,3
 2026,PHI,Tanner McKee,QB,targets,Will Shipley,RB,0.047,0.0614,0.0144,2,3
-2026,PHI,Tank Bigsby,RB,carries,Will Shipley,RB,0.176,0.2778,0.1018,3,1
-2026,PHI,Tank Bigsby,RB,targets,Makai Lemon,WR,0.1528,0.2244,0.0716,4,5
-2026,PHI,Tank Bigsby,RB,targets,Dallas Goedert,TE,0.143,0.1888,0.0458,2,5
+2026,PHI,Tank Bigsby,RB,carries,Saquon Barkley,RB,0.4102,0.4842,0.074,4,4
+2026,PHI,Tank Bigsby,RB,carries,Will Shipley,RB,0.176,0.2222,0.0462,3,2
+2026,PHI,Tank Bigsby,RB,targets,DeVonta Smith,WR,0.325,0.4448,0.1198,3,2
+2026,PHI,Tank Bigsby,RB,targets,Makai Lemon,WR,0.1528,0.2108,0.058,4,6
+2026,PHI,Tank Bigsby,RB,targets,Dallas Goedert,TE,0.143,0.1653,0.0222,2,6
 2026,PHI,Joe Milton III,QB,carries,Dameon Pierce,RB,0.56,0.9231,0.3631,1,1
 2026,PHI,Joe Milton III,QB,targets,Dameon Pierce,RB,0.0303,0.1136,0.0833,1,1
+2026,PHI,Joe Milton III,QB,targets,Dallas Goedert,TE,0.1416,0.1818,0.0402,4,1
+2026,PHI,Will Shipley,RB,carries,Joe Milton III,QB,0.125,0.3846,0.2596,1,1
 2026,PHI,Will Shipley,RB,carries,Dameon Pierce,RB,0.6111,0.7415,0.1304,1,2
-2026,PHI,Will Shipley,RB,targets,Makai Lemon,WR,0.1601,0.2332,0.0731,5,4
-2026,PIT,Rico Dowdle,RB,carries,Jaylen Warren,RB,0.5294,0.8032,0.2737,6,3
-2026,PIT,Rico Dowdle,RB,carries,Pat Freiermuth,TE,0.0369,0.0488,0.0119,2,2
-2026,PIT,Rico Dowdle,RB,targets,Pat Freiermuth,TE,0.112,0.1625,0.0504,6,3
+2026,PHI,Will Shipley,RB,targets,Makai Lemon,WR,0.1572,0.2332,0.076,6,4
+2026,PHI,Will Shipley,RB,targets,Dallas Goedert,TE,0.1442,0.1752,0.0309,4,4
+2026,PIT,Rico Dowdle,RB,carries,Jaylen Warren,RB,0.5181,0.8032,0.2851,7,3
+2026,PIT,Rico Dowdle,RB,targets,Pat Freiermuth,TE,0.1126,0.1625,0.0498,7,3
 2026,PIT,Rico Dowdle,RB,targets,Michael Pittman,WR,0.0811,0.1306,0.0496,1,2
-2026,PIT,Rico Dowdle,RB,targets,Jaylen Warren,RB,0.1325,0.168,0.0355,6,3
-2026,PIT,Rico Dowdle,RB,targets,Darnell Washington,TE,0.1012,0.118,0.0168,6,3
+2026,PIT,Rico Dowdle,RB,targets,Jaylen Warren,RB,0.1235,0.168,0.0445,7,3
+2026,PIT,Rico Dowdle,RB,targets,Darnell Washington,TE,0.0967,0.118,0.0213,7,3
 2026,PIT,Rico Dowdle,RB,targets,Ben Skowronek,WR,0.0302,0.0411,0.0109,2,2
 2026,PIT,Michael Pittman,WR,carries,Lew Nichols III,RB,0.0476,0.1614,0.1137,1,2
-2026,PIT,Michael Pittman,WR,targets,Germie Bernard,WR,0.0411,0.2158,0.1747,2,6
-2026,PIT,Michael Pittman,WR,targets,DK Metcalf,WR,0.2189,0.2396,0.0208,3,6
+2026,PIT,Michael Pittman,WR,carries,Aaron Rodgers,QB,0.0488,0.0849,0.0361,2,5
+2026,PIT,Michael Pittman,WR,targets,Germie Bernard,WR,0.0411,0.2182,0.1771,2,7
 2026,PIT,Roman Wilson,WR,carries,Lew Nichols III,RB,0.0488,0.2727,0.2239,2,1
-2026,PIT,Roman Wilson,WR,targets,DK Metcalf,WR,0.2066,0.2653,0.0587,5,4
-2026,PIT,Roman Wilson,WR,targets,Germie Bernard,WR,0.1496,0.1946,0.045,4,4
-2026,PIT,Roman Wilson,WR,targets,Darnell Washington,TE,0.0924,0.1248,0.0324,5,4
-2026,PIT,Roman Wilson,WR,targets,Rico Dowdle,RB,0.0946,0.124,0.0294,2,3
+2026,PIT,Roman Wilson,WR,targets,DK Metcalf,WR,0.1877,0.2653,0.0776,6,4
+2026,PIT,Roman Wilson,WR,targets,Darnell Washington,TE,0.0887,0.1248,0.0362,6,4
+2026,PIT,Roman Wilson,WR,targets,Germie Bernard,WR,0.1662,0.1946,0.0284,5,4
+2026,PIT,Roman Wilson,WR,targets,Rico Dowdle,RB,0.1018,0.124,0.0221,3,3
 2026,SEA,Rashid Shaheed,WR,carries,Jadarian Price,RB,0.3401,0.4132,0.0731,4,2
 2026,SEA,Rashid Shaheed,WR,carries,Sam Darnold,QB,0.0504,0.1053,0.0549,5,1
 2026,SEA,Rashid Shaheed,WR,carries,AJ Barner,TE,0.0491,0.1,0.0509,2,1
@@ -2128,123 +2179,130 @@ season,team,out_player,out_pos,metric,beneficiary,benef_pos,share_with,share_wit
 2026,SEA,Jadarian Price,RB,targets,Cooper Kupp,WR,0.1001,0.1245,0.0244,6,4
 2026,SEA,Jadarian Price,RB,targets,AJ Barner,TE,0.1307,0.1514,0.0207,6,4
 2026,SEA,Jadarian Price,RB,targets,Rashid Shaheed,WR,0.135,0.1502,0.0152,4,4
-2026,SF,Mike Evans,WR,carries,Kaelon Black,RB,0.2765,0.392,0.1155,6,3
-2026,SF,Mike Evans,WR,carries,Deebo Samuel Sr.,WR,0.0692,0.1034,0.0342,5,1
+2026,SF,Mike Evans,WR,carries,Kaelon Black,RB,0.2759,0.392,0.1161,7,3
+2026,SF,Mike Evans,WR,carries,Deebo Samuel Sr.,WR,0.0728,0.1034,0.0306,6,1
 2026,SF,Mike Evans,WR,carries,Jacob Cowing,WR,0.0303,0.0435,0.0132,1,1
-2026,SF,Mike Evans,WR,targets,Jordan Watkins,WR,0.0557,0.1437,0.088,2,3
-2026,SF,Mike Evans,WR,targets,George Kittle,TE,0.2173,0.2904,0.0731,6,3
+2026,SF,Mike Evans,WR,targets,Jordan Watkins,WR,0.05,0.1437,0.0938,3,3
+2026,SF,Mike Evans,WR,targets,George Kittle,TE,0.2027,0.2904,0.0876,7,3
+2026,SF,Mike Evans,WR,targets,Keenan Allen,WR,0.1538,0.2414,0.0875,1,1
 2026,SF,Mike Evans,WR,targets,Demarcus Robinson,WR,0.1155,0.1739,0.0584,2,1
-2026,SF,Mike Evans,WR,targets,Kaelon Black,RB,0.0341,0.0729,0.0388,3,2
-2026,SF,Mike Evans,WR,targets,Jacob Cowing,WR,0.0609,0.0858,0.0249,3,2
-2026,SF,Demarcus Robinson,WR,carries,Christian McCaffrey,RB,0.4079,0.4985,0.0906,4,5
-2026,SF,Demarcus Robinson,WR,carries,Deebo Samuel Sr.,WR,0.0589,0.0909,0.032,3,3
-2026,SF,Demarcus Robinson,WR,targets,Mike Evans,WR,0.1744,0.268,0.0936,2,4
+2026,SF,Mike Evans,WR,targets,Kaelon Black,RB,0.0352,0.0729,0.0377,4,2
+2026,SF,Demarcus Robinson,WR,carries,Christian McCaffrey,RB,0.4079,0.5063,0.0984,4,6
+2026,SF,Demarcus Robinson,WR,carries,Deebo Samuel Sr.,WR,0.0589,0.0909,0.032,3,4
+2026,SF,Demarcus Robinson,WR,targets,Mike Evans,WR,0.1744,0.2682,0.0939,2,5
 2026,SF,Demarcus Robinson,WR,targets,Jacob Cowing,WR,0.0435,0.0778,0.0343,1,4
-2026,SF,Demarcus Robinson,WR,targets,Christian McCaffrey,RB,0.1822,0.1992,0.0171,4,5
-2026,SF,Deebo Samuel Sr.,WR,carries,Kaelon Black,RB,0.2937,0.3575,0.0638,6,3
+2026,SF,Deebo Samuel Sr.,WR,carries,Kaelon Black,RB,0.2907,0.3575,0.0668,7,3
 2026,SF,Deebo Samuel Sr.,WR,carries,Brock Purdy,QB,0.13,0.1448,0.0148,6,3
 2026,SF,Deebo Samuel Sr.,WR,carries,Jacob Cowing,WR,0.0303,0.0435,0.0132,1,1
+2026,SF,Deebo Samuel Sr.,WR,targets,George Kittle,TE,0.2077,0.2789,0.0712,7,3
 2026,SF,Deebo Samuel Sr.,WR,targets,Demarcus Robinson,WR,0.1155,0.1739,0.0584,2,1
-2026,SF,Deebo Samuel Sr.,WR,targets,George Kittle,TE,0.223,0.2789,0.0558,6,3
-2026,SF,Deebo Samuel Sr.,WR,targets,Christian McCaffrey,RB,0.1783,0.2182,0.0399,6,3
-2026,SF,Deebo Samuel Sr.,WR,targets,Jordan Watkins,WR,0.0902,0.1207,0.0306,2,3
+2026,SF,Deebo Samuel Sr.,WR,targets,Christian McCaffrey,RB,0.1693,0.2182,0.0489,7,3
+2026,SF,Deebo Samuel Sr.,WR,targets,Jordan Watkins,WR,0.0729,0.1207,0.0478,3,3
 2026,SF,Deebo Samuel Sr.,WR,targets,Jacob Cowing,WR,0.0609,0.0858,0.0249,3,2
-2026,SF,Jordan Watkins,WR,carries,Jordan James,RB,0.0592,0.16,0.1008,2,1
-2026,SF,Jordan Watkins,WR,carries,Kaelon Black,RB,0.2983,0.3733,0.075,7,2
+2026,SF,Jordan Watkins,WR,carries,Jordan James,RB,0.0698,0.16,0.0902,3,1
+2026,SF,Jordan Watkins,WR,carries,Kaelon Black,RB,0.2951,0.3733,0.0782,8,2
 2026,SF,Jordan Watkins,WR,carries,Brock Purdy,QB,0.1325,0.1433,0.0108,7,2
-2026,SF,Jordan Watkins,WR,targets,Deebo Samuel Sr.,WR,0.1392,0.1982,0.059,3,2
-2026,SF,Jordan Watkins,WR,targets,Christian McCaffrey,RB,0.1856,0.2129,0.0273,7,2
-2026,SF,Jordan Watkins,WR,targets,Luke Farrell,TE,0.0358,0.0588,0.023,4,1
-2026,SF,Jordan Watkins,WR,targets,Kyle Juszczyk,RB,0.0729,0.0952,0.0223,4,1
+2026,SF,Jordan Watkins,WR,targets,Deebo Samuel Sr.,WR,0.1428,0.1982,0.0553,4,2
+2026,SF,Jordan Watkins,WR,targets,Christian McCaffrey,RB,0.1768,0.2129,0.0361,8,2
+2026,SF,Jordan Watkins,WR,targets,Luke Farrell,TE,0.0364,0.0588,0.0225,5,1
+2026,SF,Jordan Watkins,WR,targets,Kyle Juszczyk,RB,0.0737,0.0952,0.0215,5,1
 2026,TB,Baker Mayfield,QB,carries,Jalon Daniels,QB,0.0476,0.1844,0.1368,1,3
-2026,TB,Baker Mayfield,QB,carries,Bucky Irving,RB,0.5844,0.6146,0.0301,6,3
-2026,TB,Baker Mayfield,QB,targets,Emeka Egbuka,WR,0.1994,0.3014,0.102,4,3
+2026,TB,Baker Mayfield,QB,carries,Bucky Irving,RB,0.5928,0.6146,0.0218,7,3
+2026,TB,Baker Mayfield,QB,targets,Emeka Egbuka,WR,0.1918,0.3014,0.1096,5,3
 2026,TB,Baker Mayfield,QB,targets,Payne Durham,TE,0.0286,0.04,0.0114,1,1
-2026,TB,Sean Tucker,RB,carries,Baker Mayfield,QB,0.08,0.2105,0.1305,5,1
+2026,TB,Sean Tucker,RB,carries,Baker Mayfield,QB,0.1024,0.2105,0.1081,6,1
 2026,TB,Sean Tucker,RB,carries,Tez Johnson,WR,0.0268,0.0526,0.0259,2,1
 2026,TB,Sean Tucker,RB,carries,Chris Godwin Jr.,WR,0.0338,0.0526,0.0188,3,1
 2026,TB,Sean Tucker,RB,carries,Jalon Daniels,QB,0.1469,0.16,0.0131,3,1
-2026,TB,Sean Tucker,RB,targets,Emeka Egbuka,WR,0.2178,0.3062,0.0884,5,2
-2026,TB,Sean Tucker,RB,targets,Bucky Irving,RB,0.1408,0.1662,0.0254,5,2
-2026,TB,Emeka Egbuka,WR,carries,Kenneth Gainwell,RB,0.1348,0.3762,0.2415,7,2
+2026,TB,Sean Tucker,RB,targets,Emeka Egbuka,WR,0.2084,0.3062,0.0978,6,2
+2026,TB,Sean Tucker,RB,targets,Bucky Irving,RB,0.1388,0.1662,0.0274,6,2
+2026,TB,Emeka Egbuka,WR,carries,Kenneth Gainwell,RB,0.1358,0.3762,0.2404,8,2
 2026,TB,Emeka Egbuka,WR,carries,Sean Tucker,RB,0.116,0.1489,0.033,2,1
-2026,TB,Emeka Egbuka,WR,targets,Chris Godwin Jr.,WR,0.1482,0.3939,0.2457,7,2
-2026,TB,Emeka Egbuka,WR,targets,Kenneth Gainwell,RB,0.0946,0.3333,0.2387,7,1
-2026,TB,Emeka Egbuka,WR,targets,Tez Johnson,WR,0.0817,0.1818,0.1001,7,1
-2026,TB,Emeka Egbuka,WR,targets,Ted Hurst III,WR,0.1173,0.2121,0.0948,6,2
-2026,TB,Emeka Egbuka,WR,targets,Bucky Irving,RB,0.1424,0.1818,0.0394,6,1
-2026,TEN,Tyjae Spears,RB,carries,Tony Pollard,RB,0.6541,0.7787,0.1247,7,2
-2026,TEN,Tyjae Spears,RB,carries,Cam Ward,QB,0.1354,0.1713,0.0358,7,2
-2026,TEN,Tyjae Spears,RB,targets,Chimere Dike,WR,0.0588,0.15,0.0912,5,1
-2026,TEN,Tyjae Spears,RB,targets,Gunnar Helm,TE,0.1027,0.1917,0.089,6,2
-2026,TEN,Tyjae Spears,RB,targets,Elic Ayomanor,WR,0.1174,0.1792,0.0617,7,2
-2026,TEN,Tyjae Spears,RB,targets,Daniel Bellinger,TE,0.0593,0.0833,0.024,7,2
-2026,TEN,Tyjae Spears,RB,targets,Tony Pollard,RB,0.1,0.1125,0.0125,7,2
-2026,TEN,Nicholas Singleton,RB,carries,Tony Pollard,RB,0.658,0.7008,0.0429,4,5
-2026,TEN,Nicholas Singleton,RB,targets,Elic Ayomanor,WR,0.1054,0.1518,0.0463,4,5
+2026,TB,Emeka Egbuka,WR,targets,Chris Godwin Jr.,WR,0.1418,0.3939,0.2521,8,2
+2026,TB,Emeka Egbuka,WR,targets,Kenneth Gainwell,RB,0.103,0.3333,0.2304,8,1
+2026,TB,Emeka Egbuka,WR,targets,Tez Johnson,WR,0.0836,0.1818,0.0982,8,1
+2026,TB,Emeka Egbuka,WR,targets,Ted Hurst III,WR,0.1328,0.2121,0.0793,7,2
+2026,TB,Emeka Egbuka,WR,targets,Bucky Irving,RB,0.1405,0.1818,0.0413,7,1
+2026,TEN,Calvin Ridley,WR,carries,Tony Pollard,RB,0.6725,0.8333,0.1608,9,1
+2026,TEN,Calvin Ridley,WR,targets,Elic Ayomanor,WR,0.1171,0.2333,0.1162,9,1
+2026,TEN,Calvin Ridley,WR,targets,Gunnar Helm,TE,0.1217,0.1333,0.0117,8,1
+2026,TEN,Wan'Dale Robinson,WR,carries,Tony Pollard,RB,0.6818,0.75,0.0682,9,1
+2026,TEN,Wan'Dale Robinson,WR,carries,Michael Carter,RB,0.1,0.1429,0.0429,1,1
+2026,TEN,Wan'Dale Robinson,WR,targets,Chimere Dike,WR,0.074,0.25,0.176,6,1
+2026,TEN,Wan'Dale Robinson,WR,targets,Calvin Ridley,WR,0.0778,0.2143,0.1365,6,1
+2026,TEN,Tyjae Spears,RB,carries,Tony Pollard,RB,0.6541,0.7692,0.1151,7,3
+2026,TEN,Tyjae Spears,RB,targets,Chimere Dike,WR,0.0588,0.2,0.1412,5,2
+2026,TEN,Tyjae Spears,RB,targets,Calvin Ridley,WR,0.0784,0.1446,0.0663,5,2
+2026,TEN,Tyjae Spears,RB,targets,Gunnar Helm,TE,0.1027,0.1635,0.0608,6,3
+2026,TEN,Tyjae Spears,RB,targets,Elic Ayomanor,WR,0.1174,0.1552,0.0377,7,3
+2026,TEN,Nicholas Singleton,RB,carries,Tony Pollard,RB,0.658,0.709,0.0511,4,6
+2026,TEN,Nicholas Singleton,RB,targets,Calvin Ridley,WR,0.0725,0.1303,0.0578,4,3
+2026,TEN,Nicholas Singleton,RB,targets,Chimere Dike,WR,0.071,0.1203,0.0493,3,4
 2026,TEN,Nicholas Singleton,RB,targets,Tyjae Spears,RB,0.0761,0.1181,0.0421,2,4
+2026,TEN,Nicholas Singleton,RB,targets,Elic Ayomanor,WR,0.1054,0.1443,0.0389,4,6
 2026,TEN,Nicholas Singleton,RB,targets,Wan'Dale Robinson,WR,0.1801,0.2081,0.028,4,5
-2026,TEN,Nicholas Singleton,RB,targets,Calvin Ridley,WR,0.0725,0.0883,0.0158,4,2
-2026,TEN,Carnell Tate,WR,carries,Cam Ward,QB,0.1197,0.2262,0.1064,7,2
+2026,TEN,Carnell Tate,WR,carries,Cam Ward,QB,0.1137,0.2262,0.1125,8,2
 2026,TEN,Carnell Tate,WR,carries,Tyjae Spears,RB,0.1387,0.2353,0.0966,6,1
-2026,TEN,Carnell Tate,WR,targets,Tony Pollard,RB,0.0795,0.1841,0.1046,7,2
-2026,TEN,Carnell Tate,WR,targets,Elic Ayomanor,WR,0.1122,0.1976,0.0855,7,2
-2026,TEN,Carnell Tate,WR,targets,Gunnar Helm,TE,0.1069,0.1791,0.0722,6,2
-2026,TEN,Carnell Tate,WR,targets,Chimere Dike,WR,0.0533,0.1155,0.0623,4,2
-2026,TEN,Carnell Tate,WR,targets,Daniel Bellinger,TE,0.0573,0.0905,0.0333,7,2
-2026,WAS,Stefon Diggs,WR,carries,Jayden Daniels,QB,0.1856,0.2759,0.0902,6,1
-2026,WAS,Stefon Diggs,WR,targets,Treylon Burks,WR,0.1045,0.2083,0.1038,6,1
-2026,WAS,Stefon Diggs,WR,targets,Chig Okonkwo,TE,0.1679,0.25,0.0821,6,1
+2026,TEN,Carnell Tate,WR,carries,Chimere Dike,WR,0.0357,0.0588,0.0231,1,1
+2026,TEN,Carnell Tate,WR,targets,Tony Pollard,RB,0.074,0.1841,0.1101,8,2
+2026,TEN,Carnell Tate,WR,targets,Elic Ayomanor,WR,0.1115,0.1976,0.0861,8,2
+2026,TEN,Carnell Tate,WR,targets,Gunnar Helm,TE,0.1069,0.1791,0.0721,7,2
+2026,TEN,Carnell Tate,WR,targets,Xavier Restrepo,WR,0.0357,0.0811,0.0454,1,1
+2026,TEN,Carnell Tate,WR,targets,Daniel Bellinger,TE,0.0546,0.0905,0.036,8,2
+2026,WAS,Stefon Diggs,WR,carries,Jayden Daniels,QB,0.1921,0.2759,0.0838,7,1
+2026,WAS,Stefon Diggs,WR,targets,Treylon Burks,WR,0.103,0.2083,0.1054,7,1
+2026,WAS,Stefon Diggs,WR,targets,Chig Okonkwo,TE,0.1663,0.25,0.0837,7,1
 2026,WAS,Stefon Diggs,WR,targets,Terry McLaurin,WR,0.1817,0.2083,0.0267,4,1
-2026,WAS,Terry McLaurin,WR,carries,Austin Ekeler,RB,0.083,0.3091,0.2261,2,4
+2026,WAS,Terry McLaurin,WR,carries,Austin Ekeler,RB,0.083,0.3011,0.2181,2,5
 2026,WAS,Terry McLaurin,WR,carries,Rachaad White,RB,0.2766,0.3808,0.1042,5,3
+2026,WAS,Terry McLaurin,WR,targets,Antonio Williams,WR,0.1188,0.2125,0.0936,5,5
 2026,WAS,Terry McLaurin,WR,targets,Ben Sinnott,TE,0.0314,0.1212,0.0898,2,1
-2026,WAS,Terry McLaurin,WR,targets,Jacory Croskey-Merritt,RB,0.032,0.1111,0.0791,3,1
-2026,WAS,Terry McLaurin,WR,targets,Antonio Williams,WR,0.1188,0.1796,0.0608,5,4
-2026,WAS,Terry McLaurin,WR,targets,Austin Ekeler,RB,0.0494,0.0883,0.0389,2,3
+2026,WAS,Terry McLaurin,WR,targets,Jacory Croskey-Merritt,RB,0.032,0.1024,0.0704,3,2
+2026,WAS,Terry McLaurin,WR,targets,Austin Ekeler,RB,0.0494,0.0897,0.0403,2,4
 2026,WAS,Terry McLaurin,WR,targets,Dyami Brown,WR,0.0777,0.1111,0.0334,5,1
-2026,WAS,Dyami Brown,WR,carries,Austin Ekeler,RB,0.1703,0.3605,0.1903,4,2
+2026,WAS,Dyami Brown,WR,carries,Austin Ekeler,RB,0.1703,0.3301,0.1598,4,3
 2026,WAS,Dyami Brown,WR,carries,Rachaad White,RB,0.2984,0.3675,0.0691,6,2
-2026,WAS,Dyami Brown,WR,carries,Jayden Daniels,QB,0.1825,0.2386,0.0561,5,2
-2026,WAS,Dyami Brown,WR,targets,Van Jefferson,WR,0.037,0.2059,0.1688,1,1
+2026,WAS,Dyami Brown,WR,carries,Jayden Daniels,QB,0.1825,0.236,0.0535,5,3
+2026,WAS,Dyami Brown,WR,carries,Jacory Croskey-Merritt,RB,0.4593,0.5,0.0407,5,1
 2026,WAS,Dyami Brown,WR,targets,Ben Sinnott,TE,0.0314,0.1212,0.0898,2,1
-2026,WAS,Dyami Brown,WR,targets,Chig Okonkwo,TE,0.1619,0.2242,0.0623,5,2
-2026,WAS,Dyami Brown,WR,targets,Austin Ekeler,RB,0.0515,0.1047,0.0533,3,2
-2026,WAS,Rachaad White,RB,targets,Antonio Williams,WR,0.1363,0.2222,0.0859,8,1
-2026,WAS,Rachaad White,RB,targets,Jacory Croskey-Merritt,RB,0.032,0.1111,0.0791,3,1
+2026,WAS,Dyami Brown,WR,targets,Van Jefferson,WR,0.037,0.1186,0.0815,1,2
+2026,WAS,Dyami Brown,WR,targets,Austin Ekeler,RB,0.0515,0.1011,0.0496,3,3
+2026,WAS,Dyami Brown,WR,targets,Jacory Croskey-Merritt,RB,0.0518,0.0938,0.042,4,1
+2026,WAS,Dyami Brown,WR,targets,Antonio Williams,WR,0.1537,0.1936,0.0399,7,3
+2026,WAS,Rachaad White,RB,targets,Jacory Croskey-Merritt,RB,0.0475,0.1111,0.0637,4,1
+2026,WAS,Rachaad White,RB,targets,Antonio Williams,WR,0.1594,0.2222,0.0629,9,1
 2026,WAS,Rachaad White,RB,targets,Dyami Brown,WR,0.0777,0.1111,0.0334,5,1
-2026,WAS,Rachaad White,RB,targets,Stefon Diggs,WR,0.226,0.25,0.024,7,1
-2026,WAS,Treylon Burks,WR,carries,Austin Ekeler,RB,0.1962,0.4211,0.2248,5,1
-2026,WAS,Treylon Burks,WR,carries,Jacory Croskey-Merritt,RB,0.4492,0.5,0.0508,4,1
-2026,WAS,Treylon Burks,WR,targets,Van Jefferson,WR,0.037,0.2059,0.1688,1,1
+2026,WAS,Rachaad White,RB,targets,Stefon Diggs,WR,0.2212,0.25,0.0288,8,1
+2026,WAS,Treylon Burks,WR,carries,Austin Ekeler,RB,0.2084,0.4211,0.2127,6,1
+2026,WAS,Treylon Burks,WR,carries,Jacory Croskey-Merritt,RB,0.4593,0.5,0.0407,5,1
+2026,WAS,Treylon Burks,WR,targets,Van Jefferson,WR,0.0341,0.2059,0.1717,2,1
 2026,WAS,Treylon Burks,WR,targets,John Bates,TE,0.0345,0.1333,0.0988,3,1
-2026,WAS,Treylon Burks,WR,targets,Austin Ekeler,RB,0.0689,0.0882,0.0193,4,1
-2026,WAS,Treylon Burks,WR,targets,Antonio Williams,WR,0.1433,0.1549,0.0116,7,2
-2026,WAS,Chig Okonkwo,TE,carries,Jacory Croskey-Merritt,RB,0.4295,0.5042,0.0747,3,2
+2026,WAS,Treylon Burks,WR,targets,Austin Ekeler,RB,0.0739,0.0882,0.0144,5,1
+2026,WAS,Chig Okonkwo,TE,carries,Jacory Croskey-Merritt,RB,0.4471,0.5042,0.0571,4,2
 2026,WAS,Chig Okonkwo,TE,carries,Kaytron Allen,RB,0.1307,0.1562,0.0256,2,1
-2026,WAS,Chig Okonkwo,TE,carries,Jayden Daniels,QB,0.1951,0.2188,0.0236,6,1
 2026,WAS,Chig Okonkwo,TE,carries,Marcus Mariota,QB,0.0455,0.0656,0.0202,1,2
+2026,WAS,Chig Okonkwo,TE,carries,Jayden Daniels,QB,0.2002,0.2188,0.0185,7,1
 2026,WAS,Chig Okonkwo,TE,targets,Terry McLaurin,WR,0.1234,0.2824,0.1589,3,2
 2026,WAS,Chig Okonkwo,TE,targets,Dyami Brown,WR,0.0724,0.1049,0.0325,4,2
 2026,WAS,Chig Okonkwo,TE,targets,Rachaad White,RB,0.0852,0.1049,0.0197,6,2
 2026,WAS,Chig Okonkwo,TE,targets,Colson Yankoff,TE,0.0286,0.048,0.0194,2,2
-2026,WAS,Jayden Daniels,QB,carries,Jacory Croskey-Merritt,RB,0.4181,0.5212,0.1031,3,2
+2026,WAS,Jayden Daniels,QB,carries,Jacory Croskey-Merritt,RB,0.4386,0.5212,0.0826,4,2
 2026,WAS,Jayden Daniels,QB,carries,Marcus Mariota,QB,0.0312,0.0727,0.0415,1,2
 2026,WAS,Jayden Daniels,QB,targets,Terry McLaurin,WR,0.1587,0.3,0.1413,4,1
-2026,WAS,Jayden Daniels,QB,targets,Antonio Williams,WR,0.1367,0.1778,0.041,7,2
-2026,WAS,Jayden Daniels,QB,targets,Jacory Croskey-Merritt,RB,0.0314,0.0722,0.0408,2,2
+2026,WAS,Jayden Daniels,QB,targets,Stefon Diggs,WR,0.2195,0.2417,0.0222,7,2
+2026,WAS,Jayden Daniels,QB,targets,Jacory Croskey-Merritt,RB,0.0522,0.0722,0.0201,3,2
 2026,WAS,Jayden Daniels,QB,targets,Colson Yankoff,TE,0.0294,0.0472,0.0178,2,2
-2026,WAS,Jayden Daniels,QB,targets,Stefon Diggs,WR,0.2248,0.2417,0.0169,6,2
+2026,WAS,Jayden Daniels,QB,targets,Antonio Williams,WR,0.1626,0.1778,0.0152,8,2
 2026,WAS,Jacory Croskey-Merritt,RB,carries,Rachaad White,RB,0.2364,0.395,0.1586,4,4
-2026,WAS,Jacory Croskey-Merritt,RB,carries,Austin Ekeler,RB,0.1426,0.2792,0.1366,2,4
+2026,WAS,Jacory Croskey-Merritt,RB,carries,Austin Ekeler,RB,0.1848,0.2792,0.0944,3,4
+2026,WAS,Jacory Croskey-Merritt,RB,targets,Van Jefferson,WR,0.0312,0.1215,0.0902,1,2
 2026,WAS,Jacory Croskey-Merritt,RB,targets,Ben Sinnott,TE,0.0314,0.1212,0.0898,2,1
-2026,WAS,Jacory Croskey-Merritt,RB,targets,Treylon Burks,WR,0.0969,0.1492,0.0522,4,3
-2026,WAS,Jacory Croskey-Merritt,RB,targets,Chig Okonkwo,TE,0.1537,0.1991,0.0454,3,4
-2026,WAS,Jacory Croskey-Merritt,RB,targets,Austin Ekeler,RB,0.0486,0.0889,0.0403,2,3
-2026,WAS,Jacory Croskey-Merritt,RB,targets,Rachaad White,RB,0.0795,0.1007,0.0212,4,4
-2026,WAS,Athan Kaliakmanis,QB,carries,Austin Ekeler,RB,0.1159,0.3515,0.2355,3,3
+2026,WAS,Jacory Croskey-Merritt,RB,targets,Treylon Burks,WR,0.0963,0.1492,0.0529,5,3
+2026,WAS,Jacory Croskey-Merritt,RB,targets,Chig Okonkwo,TE,0.1543,0.1991,0.0448,4,4
+2026,WAS,Jacory Croskey-Merritt,RB,targets,Austin Ekeler,RB,0.0637,0.0889,0.0252,3,3
+2026,WAS,Athan Kaliakmanis,QB,carries,Austin Ekeler,RB,0.1542,0.3515,0.1972,4,3
 2026,WAS,Athan Kaliakmanis,QB,targets,John Bates,TE,0.0345,0.1333,0.0988,3,1
+2026,WAS,Athan Kaliakmanis,QB,targets,Van Jefferson,WR,0.0312,0.1215,0.0902,1,2
 2026,WAS,Athan Kaliakmanis,QB,targets,Dyami Brown,WR,0.0641,0.1216,0.0575,4,2
-2026,WAS,Athan Kaliakmanis,QB,targets,Austin Ekeler,RB,0.0515,0.1047,0.0533,3,2
+2026,WAS,Athan Kaliakmanis,QB,targets,Austin Ekeler,RB,0.062,0.1047,0.0427,4,2
 2026,WAS,Athan Kaliakmanis,QB,targets,Ben Sinnott,TE,0.0333,0.0753,0.042,1,2
-2026,WAS,Athan Kaliakmanis,QB,targets,Rachaad White,RB,0.0726,0.1006,0.028,3,5
